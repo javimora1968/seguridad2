@@ -1,0 +1,1 @@
+alter table dba.log_accesos modify id_login char(30);

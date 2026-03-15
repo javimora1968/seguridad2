@@ -1,0 +1,1 @@
+alter table dba.gl_usuarios_por_empresas modify id_usuario char(15);

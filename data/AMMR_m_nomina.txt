@@ -1,0 +1,15 @@
+m_nomina	AMMR	m_archivo	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_ayuda	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_cambiodeclaves	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_cascada	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_datosafiliacionesdeempleados	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_datosempleados	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_datoslaboralesbsicos	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_datospersonalese	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_maximizar	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_mosaico	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_mosaicohorizontal	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_refrescarpermisos	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_seguridad	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_tablasbsicas	MLPG	27/07/2016	N	N	N	N	N
+m_nomina	AMMR	m_ventana	MLPG	27/07/2016	N	N	N	N	N

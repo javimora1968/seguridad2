@@ -1,0 +1,1 @@
+alter table dba.opciones_modulo_grupo modify id_usuario char(15);

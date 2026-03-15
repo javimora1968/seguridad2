@@ -1,0 +1,16 @@
+$PBExportHeader$str_parametros.srs
+global type str_parametros from structure
+	string		strparam1
+	string		strparam2
+	string		strparam3
+	date		param_fecha1
+	date		param_fecha2
+	double		param_double1
+	double		param_double2
+	boolean		param_boolean
+	string		strarray[]
+	date		param_fecha
+	string		strparam4
+	string		strparam5
+	string		strparam6
+end type

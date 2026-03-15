@@ -1,0 +1,277 @@
+m_pos	DPGA	m_acercadevaniatechnology	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_anular4	JEMD	29/01/2004 15:15:06:53				
+m_pos	DPGA	m_aprobar1	JEMD	29/01/2004 15:15:28:75				
+m_pos	DPGA	m_ayuda	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_basicos	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_caja	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_cajas	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_cajeros	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_calculadora	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_cambioclave	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_cascada	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_ciudades	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_clientes	MLPG	04/10/2001 18:49:15:15	S	S	S	S
+m_pos	DPGA	m_clientes1	MLPG	28/02/2005 16:40:22:14				
+m_pos	DPGA	m_conceptosdeacumulación	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_configuracionesiniciales	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_consulta	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_consultar1	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_consultar2	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_consultar4	JEMD	29/01/2004 15:13:54:436				
+m_pos	DPGA	m_consultar5	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_consultar7	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_consultarplanillamensual	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_correoelectrnico	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_departamentos	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_desplegada	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_divisiones	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_documentos	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_documentosporpuntodepago	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_entradaproduccion	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_entradas	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_existencias	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_facturasporfecha	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_grupos	MLPG	04/10/2001 18:49:15:15	N	N	N	N
+m_pos	DPGA	m_informes	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_items	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_items1	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_itemsvendidos	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_ivas	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_ivas1	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_kardex	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_listadodeprecios	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_listaprecioscliente	JEMD	29/01/2004 15:13:29:75				
+m_pos	DPGA	m_listasprecios	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_lneas	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_mensajes	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_mensajesfacturas	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_mermas	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_modificar1	JEMD	29/01/2004 15:14:44:483				
+m_pos	DPGA	m_mosaicohorizontal	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_mosaicovertical	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_nuevo2	JEMD	29/01/2004 15:13:27:966				
+m_pos	DPGA	m_organizariconos	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_paises	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_planillamensual	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_planillas	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_planillas1	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_planillasporfecha	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_puntosdepago	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_puntosdeventa	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_rendimientos	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_retenciones	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_salidas	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_salir1	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_subgrupos	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_tipocliente	MLPG	28/02/2005 16:41:04:843				
+m_pos	DPGA	m_tiposdocumentobodega	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_tiposdocumentoporcliente	MLPG	10/03/2004 17:04:08:313				
+m_pos	DPGA	m_transacciones	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_turnos	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_unidades	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_ventana	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	DPGA	m_ventapos	MLPG	04/10/2001 18:49:15:2	N	N	N	N
+m_pos	JEMD	m_-	JEMD	29/01/2004 14:15:34:016				
+m_pos	JEMD	m_-1	JEMD	29/01/2004 14:15:36:313				
+m_pos	JEMD	m_-2	JEMD	29/01/2004 14:15:37:17				
+m_pos	JEMD	m_acercadevaniatechnology	JEMD	29/01/2004 14:15:40:483				
+m_pos	JEMD	m_anular	JEMD	29/01/2004 14:15:41:343				
+m_pos	JEMD	m_anular10	JEMD	29/01/2004 14:15:42:953				
+m_pos	JEMD	m_anular2	JEMD	29/01/2004 14:15:43:766				
+m_pos	JEMD	m_anular3	JEMD	29/01/2004 14:15:44:593				
+m_pos	JEMD	m_anular4	JEMD	29/01/2004 14:15:45:39				
+m_pos	JEMD	m_anular5	JEMD	29/01/2004 14:15:49:686				
+m_pos	JEMD	m_anular8	JEMD	29/01/2004 14:15:51:343				
+m_pos	JEMD	m_aprobar	JEMD	29/01/2004 14:15:52:92				
+m_pos	JEMD	m_ayuda	JEMD	29/01/2004 14:15:53:796				
+m_pos	JEMD	m_basicos	JEMD	29/01/2004 14:15:54:593				
+m_pos	JEMD	m_caja	JEMD	29/01/2004 14:15:55:453				
+m_pos	JEMD	m_cajas	JEMD	29/01/2004 14:15:56:326				
+m_pos	JEMD	m_cajeros	JEMD	29/01/2004 14:15:57:203				
+m_pos	JEMD	m_calculadora	JEMD	29/01/2004 14:15:58:046				
+m_pos	JEMD	m_cambioclave	JEMD	29/01/2004 14:15:58:843				
+m_pos	JEMD	m_cascada	JEMD	29/01/2004 14:16:00:453				
+m_pos	JEMD	m_cierre	JEMD	29/01/2004 14:16:01:233				
+m_pos	JEMD	m_ciudades	JEMD	29/01/2004 14:16:02:03				
+m_pos	JEMD	m_clientes	JEMD	29/01/2004 14:16:02:876	S	S	S	S
+m_pos	JEMD	m_conceptosdeacumulación	JEMD	29/01/2004 14:16:03:78				
+m_pos	JEMD	m_configuracionesiniciales	JEMD	29/01/2004 14:16:04:626				
+m_pos	JEMD	m_consulta	JEMD	29/01/2004 14:16:05:516				
+m_pos	JEMD	m_consultar	JEMD	29/01/2004 14:16:06:36				
+m_pos	JEMD	m_consultar1	JEMD	29/01/2004 14:16:07:25				
+m_pos	JEMD	m_consultar2	JEMD	29/01/2004 14:16:08:093				
+m_pos	JEMD	m_consultar3	JEMD	29/01/2004 14:16:08:953				
+m_pos	JEMD	m_consultar4	JEMD	29/01/2004 14:16:09:813				
+m_pos	JEMD	m_consultar5	JEMD	29/01/2004 14:16:10:686				
+m_pos	JEMD	m_consultar7	JEMD	29/01/2004 14:16:11:53				
+m_pos	JEMD	m_consultar9	JEMD	29/01/2004 14:16:13:063				
+m_pos	JEMD	m_consultarexistencias	JEMD	29/01/2004 14:16:13:953				
+m_pos	JEMD	m_consultarplanillamensual	JEMD	29/01/2004 14:16:14:796				
+m_pos	JEMD	m_correoelectrnico	JEMD	29/01/2004 14:16:15:686				
+m_pos	JEMD	m_departamentos	JEMD	29/01/2004 14:16:16:53				
+m_pos	JEMD	m_desplegada	JEMD	29/01/2004 14:16:18:093				
+m_pos	JEMD	m_devoluciónaplanta	JEMD	29/01/2004 14:16:18:92				
+m_pos	JEMD	m_devolucióndecliente	JEMD	29/01/2004 14:16:19:733				
+m_pos	JEMD	m_divisiones	JEMD	29/01/2004 14:16:21:343				
+m_pos	JEMD	m_documentos	JEMD	29/01/2004 14:16:22:186				
+m_pos	JEMD	m_documentosporpuntodepago	JEMD	29/01/2004 14:16:23:076				
+m_pos	JEMD	m_entradaproduccion	JEMD	29/01/2004 14:16:24:686				
+m_pos	JEMD	m_entradas	JEMD	29/01/2004 14:16:26:53				
+m_pos	JEMD	m_existencias	JEMD	29/01/2004 14:16:27:376				
+m_pos	JEMD	m_facturasporfecha	JEMD	29/01/2004 14:16:29				
+m_pos	JEMD	m_generar	JEMD	29/01/2004 14:16:29:86				
+m_pos	JEMD	m_generaropciones	JEMD	29/01/2004 14:16:31:453				
+m_pos	JEMD	m_generarplanillamensual	JEMD	29/01/2004 14:16:32:313				
+m_pos	JEMD	m_grupos	JEMD	29/01/2004 14:16:33:156				
+m_pos	JEMD	m_informes	JEMD	29/01/2004 14:16:34:046				
+m_pos	JEMD	m_items	JEMD	29/01/2004 14:16:34:843				
+m_pos	JEMD	m_items1	JEMD	29/01/2004 14:16:35:703				
+m_pos	JEMD	m_itemsvendidos	JEMD	29/01/2004 14:16:36:563				
+m_pos	JEMD	m_ivas	JEMD	29/01/2004 14:16:37:483				
+m_pos	JEMD	m_ivas1	JEMD	29/01/2004 14:16:38:326				
+m_pos	JEMD	m_kardex	JEMD	29/01/2004 14:16:39:216				
+m_pos	JEMD	m_listadodeprecios	JEMD	29/01/2004 14:16:40:063				
+m_pos	JEMD	m_listaprecioscliente	JEMD	16/03/2004 10:55:33:813				
+m_pos	JEMD	m_listasprecios	JEMD	29/01/2004 14:16:40:89				
+m_pos	JEMD	m_lneas	JEMD	29/01/2004 14:16:41:75				
+m_pos	JEMD	m_mensajes	JEMD	29/01/2004 14:16:42:593				
+m_pos	JEMD	m_mensajesfacturas	JEMD	29/01/2004 14:16:43:436				
+m_pos	JEMD	m_mermas	JEMD	29/01/2004 14:16:44:313				
+m_pos	JEMD	m_mermasrendimientos	JEMD	29/01/2004 14:16:45:936				
+m_pos	JEMD	m_mermasrendimientos1	JEMD	29/01/2004 14:16:46:796				
+m_pos	JEMD	m_modificar	JEMD	29/01/2004 14:16:47:656				
+m_pos	JEMD	m_modificar1	JEMD	29/01/2004 14:16:48:466				
+m_pos	JEMD	m_modificar4	JEMD	29/01/2004 14:16:49:313				
+m_pos	JEMD	m_mosaicohorizontal	JEMD	29/01/2004 14:16:50:17				
+m_pos	JEMD	m_mosaicovertical	JEMD	29/01/2004 14:16:50:966				
+m_pos	JEMD	m_nueva	JEMD	29/01/2004 14:16:51:78				
+m_pos	JEMD	m_nueva2	JEMD	29/01/2004 14:16:53:39				
+m_pos	JEMD	m_nuevo	JEMD	29/01/2004 14:16:54:233				
+m_pos	JEMD	m_nuevo1	JEMD	29/01/2004 14:16:55:126				
+m_pos	JEMD	m_nuevo2	JEMD	16/03/2004 10:55:32:906				
+m_pos	JEMD	m_nuevo5	JEMD	29/01/2004 14:16:55:92				
+m_pos	JEMD	m_nuevo6	JEMD	29/01/2004 14:16:56:78				
+m_pos	JEMD	m_nuevo7	JEMD	29/01/2004 14:16:57:703				
+m_pos	JEMD	m_organizariconos	JEMD	29/01/2004 14:16:58:563				
+m_pos	JEMD	m_paises	JEMD	29/01/2004 14:16:59:36				
+m_pos	JEMD	m_planillamensual	JEMD	29/01/2004 14:17:00:216				
+m_pos	JEMD	m_planillas	JEMD	29/01/2004 14:17:01:093				
+m_pos	JEMD	m_planillas1	JEMD	29/01/2004 14:17:01:953				
+m_pos	JEMD	m_planillasporfecha	JEMD	29/01/2004 14:17:02:813				
+m_pos	JEMD	m_prestamoabodega	JEMD	29/01/2004 14:17:03:67				
+m_pos	JEMD	m_prstamoabodega	JEMD	29/01/2004 14:17:05:233				
+m_pos	JEMD	m_puntosdepago	JEMD	29/01/2004 14:17:06:093				
+m_pos	JEMD	m_puntosdeventa	JEMD	29/01/2004 14:17:07:703				
+m_pos	JEMD	m_rendimientos	JEMD	29/01/2004 14:17:08:563				
+m_pos	JEMD	m_retenciones	JEMD	29/01/2004 14:17:09:466				
+m_pos	JEMD	m_salidas	JEMD	29/01/2004 14:17:11:063				
+m_pos	JEMD	m_salir1	JEMD	29/01/2004 14:17:12:436				
+m_pos	JEMD	m_subgrupos	JEMD	29/01/2004 14:17:13:28				
+m_pos	JEMD	m_tiposdocumentobodega	JEMD	29/01/2004 14:17:14:14				
+m_pos	JEMD	m_transacciones	JEMD	29/01/2004 14:17:14:936				
+m_pos	JEMD	m_turnos	JEMD	29/01/2004 14:17:15:75				
+m_pos	JEMD	m_unidades	JEMD	29/01/2004 14:17:16:61				
+m_pos	JEMD	m_ventana	JEMD	29/01/2004 14:17:17:483				
+m_pos	JEMD	m_ventapesomanual	JEMD	29/01/2004 14:17:18:343				
+m_pos	JEMD	m_ventapos	JEMD	29/01/2004 14:17:20:11				
+m_pos	MLPG	m_-	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_-1	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_-2	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_acercadevaniatechnology	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_anular	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_anular10	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_anular2	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_anular3	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_anular4	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_anular5	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_anular8	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_aprobar	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_ayuda	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_basicos	MLPG	04/10/2001 18:51:05:88	N	N	N	N
+m_pos	MLPG	m_caja	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_cajas	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_cajeros	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_calculadora	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_cambioclave	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_cascada	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_cierre	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_ciudades	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_clientes	MLPG	04/10/2001 18:51:05:93	S	S	S	S
+m_pos	MLPG	m_conceptosdeacumulación	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_configuracionesiniciales	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consulta	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultar	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultar1	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultar2	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultar3	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultar4	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultar5	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultar7	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultar9	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultarexistencias	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_consultarplanillamensual	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_correoelectrnico	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_departamentos	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_desplegada	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_devoluciónaplanta	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_devolucióndecliente	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_divisiones	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_documentos	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_documentosporpuntodepago	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_entradaproduccion	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_entradas	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_existencias	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_facturasporfecha	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_generar	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_generaropciones	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_generarplanillamensual	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_grupos	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_informes	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_items	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_items1	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_itemsvendidos	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_ivas	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_ivas1	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_kardex	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_listadodeprecios	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_listasprecios	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_lneas	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_mensajes	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_mensajesfacturas	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_mermas	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_mermasrendimientos	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_mermasrendimientos1	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_modificar	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_modificar1	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_modificar4	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_mosaicohorizontal	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_mosaicovertical	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_nueva	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_nueva2	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_nuevo	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_nuevo1	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_nuevo5	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_nuevo6	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_nuevo7	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_organizariconos	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_paises	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_planillamensual	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_planillas	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_planillas1	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_planillasporfecha	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_prestamoabodega	MLPG	04/10/2001 18:51:05:93	N	N	N	N
+m_pos	MLPG	m_prstamoabodega	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_puntosdepago	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_puntosdeventa	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_rendimientos	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_retenciones	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_salidas	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_salir1	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_subgrupos	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_tiposdocumentobodega	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_transacciones	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_turnos	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_unidades	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_ventana	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_ventapesomanual	MLPG	04/10/2001 18:51:05:99	N	N	N	N
+m_pos	MLPG	m_ventapos	MLPG	04/10/2001 18:51:05:99	N	N	N	N

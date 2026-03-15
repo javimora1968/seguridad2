@@ -1,0 +1,4 @@
+01	w_pp_ventas_tipo_negocio_imp_automatico	daniel.mazuera@kikes.com.co	MLPG	23/03/2015 14:31:56:41	S
+01	w_pp_ventas_por_vendedor_imp	daniel.mazuera@kikes.com.co	MLPG	23/03/2015 21:39:36:27	S
+01	w_pp_existencias_item_imp_automatico	daniel.mazuera@kikes.com.co	MLPG	23/03/2015 14:31:56:41	S
+01	w_pp_existencias_bodega_imp_automatico	daniel.mazuera@kikes.com.co	MLPG	23/03/2015 14:31:56:41	S

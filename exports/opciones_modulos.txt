@@ -1,0 +1,304 @@
+m_cartera	m_salir	Salir	m_cartera	JEMD	03/10/2003 16:23:13:216	1	1	
+m_cartera	m_mantenimiento	Mantenimiento	m_cartera	JEMD	03/10/2003 16:23:13:233	2	1	
+m_cartera	m_transacciones	Transacciones	m_cartera	JEMD	03/10/2003 16:23:13:25	7	1	
+m_cartera	m_informes	Informes	m_cartera	JEMD	03/10/2003 16:23:13:356	24	1	
+m_cartera	m_accesorios	Accesorios	m_cartera	JEMD	03/10/2003 16:23:13:513	54	1	
+m_cartera	m_ventana	Ventana	m_cartera	JEMD	03/10/2003 16:23:13:59	69	1	
+m_cartera	m_ayuda	Ayuda	m_cartera	JEMD	03/10/2003 16:23:13:623	75	1	
+m_cartera	m_clientes	Clientes	m_mantenimiento	JEMD	03/10/2003 16:23:13:233	3	2	
+m_cartera	m_configuracioncontableanticipos	Configuracion Contable Anticipos	m_mantenimiento	JEMD	03/10/2003 16:23:13:25	4	2	
+m_cartera	m_configuracioncontableabonos	Configuracion Contable Abonos	m_mantenimiento	JEMD	03/10/2003 16:23:13:25	5	2	
+m_cartera	m_configuracioncontablenotas	Configuracion Contable Notas	m_mantenimiento	JEMD	03/10/2003 16:23:13:25	6	2	
+m_cartera	m_abonos	Abonos	m_transacciones	JEMD	03/10/2003 16:23:13:263	8	2	
+m_cartera	m_anticipos	Anticipos	m_transacciones	JEMD	03/10/2003 16:23:13:293	12	2	
+m_cartera	m_notas	Notas	m_transacciones	JEMD	03/10/2003 16:23:13:31	16	2	
+m_cartera	m_contabilizacion	Contabilizacion	m_transacciones	JEMD	03/10/2003 16:23:13:34	20	2	
+m_cartera	notasmermasclientesporfecha	Notas Mermas Clientes Por Item y Fecha	m_informes	JEMD	03/10/2003 16:42:05:67	24	2	
+m_cartera	m_carteraporfecha	Cartera Por fecha	m_informes	JEMD	03/10/2003 16:23:13:356	25	2	
+m_cartera	m_carteraclienteespecificoporfecha	Cartera Cliente Especifico Por Fecha	m_informes	JEMD	03/10/2003 16:23:13:373	26	2	
+m_cartera	m_resumencarteraclientes	Estado Cartera Clientes	m_informes	JEMD	03/10/2003 16:23:13:373	27	2	
+m_cartera	m_carteraclienteespecifico	Estado Cartera Cliente Especifico	m_informes	JEMD	03/10/2003 16:23:13:373	28	2	
+m_cartera	m_1	-	m_informes	JEMD	03/10/2003 16:23:13:39	29	2	
+m_cartera	m_abonosclientesporfecha	Abonos Clientes Por Fecha	m_informes	JEMD	03/10/2003 16:23:13:39	30	2	
+m_cartera	m_abonosenchequeclientesporfecha	Abonos en Cheque Clientes por Fecha	m_informes	JEMD	03/10/2003 16:23:13:39	31	2	
+m_cartera	m_abonosclienteespecificoporfecha	Abonos Cliente Especifico Por Fecha	m_informes	JEMD	03/10/2003 16:23:13:403	32	2	
+m_cartera	m_resumenabonosporusuario	Resumen Abonos por Usuario	m_informes	JEMD	03/10/2003 16:23:13:403	33	2	
+m_cartera	m_resumenabonosbascula-corral	Resumen Abonos Bascula - Corral	m_informes	JEMD	03/10/2003 16:23:13:403	34	2	
+m_cartera	m_resumenabonossacrificio	Resumen Abonos Sacrificio	m_informes	JEMD	03/10/2003 16:23:13:42	35	2	
+m_cartera	m_-1	-	m_informes	JEMD	03/10/2003 16:23:13:42	36	2	
+m_cartera	m_notasclientesporfecha	Notas Clientes Por Fecha	m_informes	JEMD	03/10/2003 16:23:13:42	37	2	
+m_cartera	m_notasmermasclientesporfecha	Notas Mermas Clientes Por Item y Fecha	m_informes	JEMD	03/10/2003 16:23:13:436	38	2	
+m_cartera	m_notasmermasclientespordivisionyfecha	Notas Mermas Clientes Por Division Y Fecha	m_informes	JEMD	03/10/2003 16:23:13:436	39	2	
+m_cartera	m_notasclienteespecÝficoporfecha	Notas Cliente EspecÝfico Por Fecha	m_informes	JEMD	03/10/2003 16:23:13:436	40	2	
+m_cartera	m_notasclienteporfechausuario	Notas Cliente Por Fecha Usuario	m_informes	JEMD	03/10/2003 16:23:13:45	41	2	
+m_cartera	m_-	-	m_informes	JEMD	03/10/2003 16:23:13:45	42	2	
+m_cartera	m_anticiposclientesporfecha	Anticipos Clientes por Fecha	m_informes	JEMD	03/10/2003 16:23:13:45	43	2	
+m_cartera	m_anticiposclienteespecificoporfecha	Anticipos Cliente Especifico por Fecha	m_informes	JEMD	03/10/2003 16:23:13:466	44	2	
+m_cartera	m_anticiposclienteporfechausuario	Anticipos Cliente Por Fecha Usuario	m_informes	JEMD	03/10/2003 16:23:13:466	45	2	
+m_cartera	m_0	-	m_informes	JEMD	03/10/2003 16:23:13:466	46	2	
+m_cartera	m_detalleaplicacionanticiposxfecha	Detalle aplicacion Anticipos X fecha	m_informes	JEMD	03/10/2003 16:23:13:483	47	2	
+m_cartera	m_detalleaplicanticiposclientespecificoxf	Detalle aplic Anticipos Client Especifico X Fecha	m_informes	JEMD	03/10/2003 16:23:13:483	48	2	
+m_cartera	m_saldogeneralanticipos	Saldo General Anticipos	m_informes	JEMD	03/10/2003 16:23:13:483	49	2	
+m_cartera	m_saldoanticiposuncliente	Saldo Anticipos Un Cliente	m_informes	JEMD	03/10/2003 16:23:13:483	50	2	
+m_cartera	m_-0	-	m_informes	JEMD	03/10/2003 16:23:13:5	51	2	
+m_cartera	m_extractosporfecha	Extractos Por Fecha	m_informes	JEMD	03/10/2003 16:23:13:5	52	2	
+m_cartera	m_extractosclienteespecificoporfecha	Extractos Cliente Especifico Por Fecha	m_informes	JEMD	03/10/2003 16:23:13:5	53	2	
+m_cartera	m_cambiodeclave	Cambio de Clave	m_accesorios	JEMD	03/10/2003 16:23:13:513	55	2	
+m_cartera	m_opcionesdemenu	Opciones de Menu	m_accesorios	JEMD	03/10/2003 16:23:13:53	56	2	
+m_cartera	m_refrescarpermisos	Refrescar Permisos	m_accesorios	JEMD	03/10/2003 16:23:13:53	57	2	
+m_cartera	m_actualizare-mail	Actualizar e-mail	m_accesorios	JEMD	03/10/2003 16:23:13:53	58	2	
+m_cartera	m_generaropciones	Generar Opciones	m_accesorios	JEMD	03/10/2003 16:23:13:53	59	2	
+m_cartera	m_-4	-	m_accesorios	JEMD	03/10/2003 16:23:13:543	60	2	
+m_cartera	m_bajaranticipos	Bajar Anticipos	m_accesorios	JEMD	03/10/2003 16:23:13:543	61	2	
+m_cartera	m_subiranticipos	Subir Anticipos	m_accesorios	JEMD	03/10/2003 16:23:13:543	62	2	
+m_cartera	m_-3	-	m_accesorios	JEMD	03/10/2003 16:23:13:56	63	2	
+m_cartera	m_bajarabonos	Bajar Abonos	m_accesorios	JEMD	03/10/2003 16:23:13:56	64	2	
+m_cartera	m_subirabonos	Subir Abonos	m_accesorios	JEMD	03/10/2003 16:23:13:56	65	2	
+m_cartera	m_-2	-	m_accesorios	JEMD	03/10/2003 16:23:13:576	66	2	
+m_cartera	m_bajarnotas	Bajar Notas	m_accesorios	JEMD	03/10/2003 16:23:13:576	67	2	
+m_cartera	m_subirnotas	Subir Notas	m_accesorios	JEMD	03/10/2003 16:23:13:576	68	2	
+m_cartera	m_cascada	Cascada	m_ventana	JEMD	03/10/2003 16:23:13:59	70	2	
+m_cartera	m_mosaicohorizontal	Mosaico Horizontal	m_ventana	JEMD	03/10/2003 16:23:13:59	71	2	
+m_cartera	m_mosaicovertical	Mosaico Vertical	m_ventana	JEMD	03/10/2003 16:23:13:606	72	2	
+m_cartera	m_organizariconos	Organizar Iconos	m_ventana	JEMD	03/10/2003 16:23:13:606	73	2	
+m_cartera	m_desplegada	Desplegada	m_ventana	JEMD	03/10/2003 16:23:13:606	74	2	
+m_cartera	m_nuevo	Nuevo	m_abonos	JEMD	03/10/2003 16:23:13:263	9	3	
+m_cartera	m_consultar	Consultar	m_abonos	JEMD	03/10/2003 16:23:13:263	10	3	
+m_cartera	m_anular	Anular	m_abonos	JEMD	03/10/2003 16:23:13:28	11	3	
+m_cartera	m_nuevo0	Nuevo	m_anticipos	JEMD	03/10/2003 16:23:13:293	13	3	
+m_cartera	m_consultar0	Consultar	m_anticipos	JEMD	03/10/2003 16:23:13:293	14	3	
+m_cartera	m_anular0	Anular	m_anticipos	JEMD	03/10/2003 16:23:13:293	15	3	
+m_cartera	m_nuevo1	Nuevo	m_notas	JEMD	03/10/2003 16:23:13:326	17	3	
+m_cartera	m_consultar1	Consultar	m_notas	JEMD	03/10/2003 16:23:13:326	18	3	
+m_cartera	m_anular1	Anular	m_notas	JEMD	03/10/2003 16:23:13:326	19	3	
+m_cartera	m_anticipos1	Anticipos	m_contabilizacion	JEMD	03/10/2003 16:23:13:34	21	3	
+m_cartera	m_abonos0	Abonos	m_contabilizacion	JEMD	03/10/2003 16:23:13:34	22	3	
+m_cartera	m_notas0	Notas	m_contabilizacion	JEMD	03/10/2003 16:23:13:356	23	3	
+m_cxp	m_salir1	&Salir	m_cxp	MLPG	25/03/2004 13:18:51:186	1	1	
+m_cxp	m_basicos	&Bßsicas	m_cxp	MLPG	25/03/2004 13:18:51:186	2	1	
+m_cxp	m_transacciones	&Transacciones	m_cxp	MLPG	25/03/2004 13:18:51:31	28	1	
+m_cxp	m_informes	&Informes	m_cxp	MLPG	25/03/2004 13:18:51:5	67	1	
+m_cxp	m_agenda	&Accesorios	m_cxp	MLPG	25/03/2004 13:18:51:56	80	1	
+m_cxp	m_ventana	&Ventana	m_cxp	MLPG	25/03/2004 13:18:51:59	89	1	
+m_cxp	m_ayuda	A&yuda	m_cxp	MLPG	25/03/2004 13:18:51:623	95	1	
+m_cxp	m_ubicaciones	&Ubicaciones	m_basicos	MLPG	25/03/2004 13:18:51:2	3	2	
+m_cxp	m_proveedores	Pro&veedores	m_basicos	MLPG	25/03/2004 13:18:51:216	7	2	
+m_cxp	m_tiposobligacion	Tipos &Obligacion	m_basicos	MLPG	25/03/2004 13:18:51:25	15	2	
+m_cxp	m_configurarmonedas1	Con&figurar Monedas	m_basicos	MLPG	25/03/2004 13:18:51:25	16	2	
+m_cxp	m_tiposdedocumentosyconsecutivos1	&Tipos de Documentos y Consecutivos	m_basicos	MLPG	25/03/2004 13:18:51:28	19	2	
+m_cxp	m_configuracioncontable	Configuracion Con&table	m_basicos	MLPG	25/03/2004 13:18:51:28	20	2	
+m_cxp	m_configuraciones	&Configuraciones	m_basicos	MLPG	25/03/2004 13:18:51:293	23	2	
+m_cxp	m_tiposcuentasporpagar	&Tipos Cuentas por Pagar	m_basicos	MLPG	25/03/2004 13:18:51:293	24	2	
+m_cxp	m_bancosycorporaciones	&Bancos y Corporaciones	m_basicos	MLPG	25/03/2004 13:18:51:293	25	2	
+m_cxp	m_pasivoestimado	&Pasivo Estimado	m_transacciones	MLPG	25/03/2004 13:18:51:31	29	2	
+m_cxp	m_anticipos	&Anticipos	m_transacciones	MLPG	25/03/2004 13:18:51:34	33	2	
+m_cxp	m_cuentaporpagar	&Cuenta por Pagar	m_transacciones	MLPG	25/03/2004 13:18:51:356	37	2	
+m_cxp	m_cajamenor	Caja &Menor	m_transacciones	MLPG	25/03/2004 13:18:51:403	46	2	
+m_cxp	m_notasdebito	Notas &Debito	m_transacciones	MLPG	25/03/2004 13:18:51:42	51	2	
+m_cxp	m_notascredito	&Notas Credito	m_transacciones	MLPG	25/03/2004 13:18:51:45	55	2	
+m_cxp	m_egresos	&Egresos	m_transacciones	MLPG	25/03/2004 13:18:51:466	59	2	
+m_cxp	m_importarexportar	&Importar/Exportar	m_transacciones	MLPG	25/03/2004 13:18:51:483	63	2	
+m_cxp	m_completardatoscompra	Co&mpletar Datos Compra	m_transacciones	MLPG	25/03/2004 13:18:51:5	66	2	
+m_cxp	m_cuentasporpagarporfecha	Cuentas por Pagar por &Fecha	m_informes	MLPG	25/03/2004 13:18:51:5	68	2	
+m_cxp	m_cuentasporpagarproveedorespecifi	Cuentas por Pagar Proveedor EspecÝifico por Fecha	m_informes	MLPG	25/03/2004 13:18:51:5	69	2	
+m_cxp	m_cuentasporpagarporedades	Cuentas por Pagar por &Edades	m_informes	MLPG	25/03/2004 13:18:51:513	70	2	
+m_cxp	m_facturasporpagar	&Facturas por Pagar	m_informes	MLPG	25/03/2004 13:18:51:513	71	2	
+m_cxp	m_saldosobligaciones	&Saldos Obligaciones	m_informes	MLPG	25/03/2004 13:18:51:513	72	2	
+m_cxp	m_auxiliardocumentosporpagar	Auxiliar Documentos por Pagar	m_informes	MLPG	25/03/2004 13:18:51:53	73	2	
+m_cxp	m_-	-	m_informes	MLPG	25/03/2004 13:18:51:53	74	2	
+m_cxp	m_ivageneradoencompras	&IVA generado en Compras	m_informes	MLPG	25/03/2004 13:18:51:53	75	2	
+m_cxp	m_ivageneradoenordenesdetrabajo	IVA generado en &Ordenes de Trabajo	m_informes	MLPG	25/03/2004 13:18:51:543	76	2	
+m_cxp	m_ivadescontable	IVA &Descontable	m_informes	MLPG	25/03/2004 13:18:51:543	77	2	
+m_cxp	m_itemsportipodeivadecompra	I&tems por Tipo de IVA de Compra	m_informes	MLPG	25/03/2004 13:18:51:543	78	2	
+m_cxp	m_facturasvsrecepcionesdemercanca	&Facturas VS Recepciones de MercancÝa	m_informes	MLPG	25/03/2004 13:18:51:543	79	2	
+m_cxp	m_definircompromisos	&Calculadora	m_agenda	MLPG	25/03/2004 13:18:51:56	81	2	
+m_cxp	m_consultacompromisos	Corr&eo	m_agenda	MLPG	25/03/2004 13:18:51:56	82	2	
+m_cxp	m_mensajes	&Mensajes	m_agenda	MLPG	25/03/2004 13:18:51:576	83	2	
+m_cxp	m_inactivarcompromisos	-	m_agenda	MLPG	25/03/2004 13:18:51:576	84	2	
+m_cxp	m_cambioclave1	Cambio cla&ve	m_agenda	MLPG	25/03/2004 13:18:51:576	85	2	
+m_cxp	m_opcionesdemens	&Opciones de Men·s	m_agenda	MLPG	25/03/2004 13:18:51:576	86	2	
+m_cxp	m_refrescaropciones	&Refrescar Opciones	m_agenda	MLPG	25/03/2004 13:18:51:59	87	2	
+m_cxp	m_generaropciones	Generar Opciones	m_agenda	MLPG	25/03/2004 13:18:51:59	88	2	
+m_cxp	m_cascada	&Cascada	m_ventana	MLPG	25/03/2004 13:18:51:59	90	2	
+m_cxp	m_mosaicohorizontal	Mosaico &Horizontal	m_ventana	MLPG	25/03/2004 13:18:51:606	91	2	
+m_cxp	m_mosaicovertical	Mosaico &Vertical	m_ventana	MLPG	25/03/2004 13:18:51:606	92	2	
+m_cxp	m_organizariconos	&Organizar Iconos	m_ventana	MLPG	25/03/2004 13:18:51:606	93	2	
+m_cxp	m_desplegada	&Desplegada	m_ventana	MLPG	25/03/2004 13:18:51:623	94	2	
+m_cxp	m_acercadevaniatechnology	&Acerca de ...	m_ayuda	MLPG	25/03/2004 13:18:51:623	96	2	
+m_cxp	m_paises	&Paises	m_ubicaciones	MLPG	25/03/2004 13:18:51:2	4	3	
+m_cxp	m_departamentos	&Departamentos	m_ubicaciones	MLPG	25/03/2004 13:18:51:2	5	3	
+m_cxp	m_ciudades	&Ciudades	m_ubicaciones	MLPG	25/03/2004 13:18:51:2	6	3	
+m_cxp	m_nit	&Nits	m_proveedores	MLPG	25/03/2004 13:18:51:216	8	3	
+m_cxp	m_condicionescomerciales	&Condiciones Comerciales	m_proveedores	MLPG	25/03/2004 13:18:51:216	9	3	
+m_cxp	m_-2	-	m_proveedores	MLPG	25/03/2004 13:18:51:216	10	3	
+m_cxp	m_tiposdeproveedores	&Tipos de Proveedores	m_proveedores	MLPG	25/03/2004 13:18:51:233	11	3	
+m_cxp	m_tiposdeidentificacion	Tipos de &Identificaci¾n	m_proveedores	MLPG	25/03/2004 13:18:51:233	12	3	
+m_cxp	m_proveedores1	&Proveedores	m_proveedores	MLPG	25/03/2004 13:18:51:233	13	3	
+m_cxp	m_itemsdelproveedor	&Items suministrados por Proveedor	m_proveedores	MLPG	25/03/2004 13:18:51:25	14	3	
+m_cxp	m_tiposdemonedas	Tipos de &Monedas	m_configurarmonedas1	MLPG	25/03/2004 13:18:51:25	17	3	
+m_cxp	m_tasasdecambio1	&Movimienmto Indicadores Financieros	m_configurarmonedas1	MLPG	25/03/2004 13:18:51:263	18	3	
+m_cxp	m_cuentadebitoinventario	Cuenta &Debito Inventario	m_configuracioncontable	MLPG	25/03/2004 13:18:51:28	21	3	
+m_cxp	m_cuentadebitoinventario-iva	Cuenta Debito Inventario - &IVA	m_configuracioncontable	MLPG	25/03/2004 13:18:51:293	22	3	
+m_cxp	m_bancos	&Bancos	m_bancosycorporaciones	MLPG	25/03/2004 13:18:51:31	26	3	
+m_cxp	m_cuentasporbanco	&Cuentas por Banco	m_bancosycorporaciones	MLPG	25/03/2004 13:18:51:31	27	3	
+m_cxp	m_nuevo4	&Nuevo	m_pasivoestimado	MLPG	25/03/2004 13:18:51:326	30	3	
+m_cxp	m_consultar4	&Consultar	m_pasivoestimado	MLPG	25/03/2004 13:18:51:326	31	3	
+m_cxp	m_anular4	&Anular	m_pasivoestimado	MLPG	25/03/2004 13:18:51:326	32	3	
+m_cxp	m_nuevo	&Nuevo	m_anticipos	MLPG	25/03/2004 13:18:51:34	34	3	
+m_cxp	m_consultar	&Consultar	m_anticipos	MLPG	25/03/2004 13:18:51:34	35	3	
+m_cxp	m_anular	&Anular	m_anticipos	MLPG	25/03/2004 13:18:51:356	36	3	
+m_cxp	m_nuevo3	&Nuevo	m_cuentaporpagar	MLPG	25/03/2004 13:18:51:356	38	3	
+m_cxp	m_consultar3	&Consultar	m_cuentaporpagar	MLPG	25/03/2004 13:18:51:356	39	3	
+m_cxp	m_modificar	&Modificar	m_cuentaporpagar	MLPG	25/03/2004 13:18:51:373	40	3	
+m_cxp	m_modificarfecha	Modificar &Fecha	m_cuentaporpagar	MLPG	25/03/2004 13:18:51:39	41	3	
+m_cxp	m_anular3	&Anular	m_cuentaporpagar	MLPG	25/03/2004 13:18:51:39	42	3	
+m_cxp	m_aprobacionpago	Aprobaci¾n Pago	m_cuentaporpagar	MLPG	25/03/2004 13:18:51:39	43	3	
+m_cxp	m_-1	-	m_cuentaporpagar	MLPG	25/03/2004 13:18:51:39	44	3	
+m_cxp	m_saldosinicialesdecuentasporpagar	Saldos Iniciales de Cuentas por Pagar	m_cuentaporpagar	MLPG	25/03/2004 13:18:51:403	45	3	
+m_cxp	m_nuevo6	&Nuevo	m_cajamenor	MLPG	25/03/2004 13:18:51:403	47	3	
+m_cxp	m_consultar6	&Consultar	m_cajamenor	MLPG	25/03/2004 13:18:51:403	48	3	
+m_cxp	m_modificar1	&Modificar	m_cajamenor	MLPG	25/03/2004 13:18:51:42	49	3	
+m_cxp	m_anular6	&Anular	m_cajamenor	MLPG	25/03/2004 13:18:51:42	50	3	
+m_cxp	m_nuevo1	&Nuevo	m_notasdebito	MLPG	25/03/2004 13:18:51:436	52	3	
+m_cxp	m_consultar1	&Consultar	m_notasdebito	MLPG	25/03/2004 13:18:51:436	53	3	
+m_cxp	m_anular1	&Anular	m_notasdebito	MLPG	25/03/2004 13:18:51:436	54	3	
+m_cxp	m_nuevo2	&Nuevo	m_notascredito	MLPG	25/03/2004 13:18:51:45	56	3	
+m_cxp	m_consultar2	&Consultar	m_notascredito	MLPG	25/03/2004 13:18:51:45	57	3	
+m_cxp	m_anular2	&Anular	m_notascredito	MLPG	25/03/2004 13:18:51:45	58	3	
+m_cxp	m_nuevo5	&Nuevo	m_egresos	MLPG	25/03/2004 13:18:51:466	60	3	
+m_cxp	m_consultar5	&Consultar	m_egresos	MLPG	25/03/2004 13:18:51:466	61	3	
+m_cxp	m_anular5	&Anular	m_egresos	MLPG	25/03/2004 13:18:51:483	62	3	
+m_cxp	m_exportar	&Exportar	m_importarexportar	MLPG	25/03/2004 13:18:51:483	64	3	
+m_cxp	m_importar	&Importar	m_importarexportar	MLPG	25/03/2004 13:18:51:483	65	3	
+m_pos	m_salir1	&Salir	m_pos	MLPG	02/03/2004 16:26:51:14	1	1	
+m_pos	m_basicos	&Bßsicas	m_pos	MLPG	02/03/2004 16:26:51:14	2	1	
+m_pos	m_transacciones	&Transacciones	m_pos	MLPG	02/03/2004 16:26:51:263	26	1	
+m_pos	m_informes	&Informes	m_pos	MLPG	02/03/2004 16:26:51:606	92	1	
+m_pos	m_correoelectrnico	A&ccesorios	m_pos	MLPG	02/03/2004 16:26:51:733	118	1	
+m_pos	m_ventana	&Ventana	m_pos	MLPG	02/03/2004 16:26:51:763	125	1	
+m_pos	m_ayuda	A&yuda	m_pos	MLPG	02/03/2004 16:26:51:793	131	1	
+m_pos	m_paises	P&aises	m_basicos	MLPG	02/03/2004 16:26:51:153	3	2	
+m_pos	m_departamentos	&Departamentos	m_basicos	MLPG	02/03/2004 16:26:51:153	4	2	
+m_pos	m_ciudades	Ciudade&s	m_basicos	MLPG	02/03/2004 16:26:51:153	5	2	
+m_pos	m_monedas	Mone&das	m_basicos	MLPG	02/03/2004 16:26:51:17	6	2	
+m_pos	m_puntosdeventa	Puntos de &Venta	m_basicos	MLPG	02/03/2004 16:26:51:186	9	2	
+m_pos	m_puntosdepago	Puntos de &Pago	m_basicos	MLPG	02/03/2004 16:26:51:186	10	2	
+m_pos	m_cajeros	&Cajeros	m_basicos	MLPG	02/03/2004 16:26:51:186	11	2	
+m_pos	m_turnos	&Turnos	m_basicos	MLPG	02/03/2004 16:26:51:2	12	2	
+m_pos	m_clientes	C&lientes	m_basicos	MLPG	02/03/2004 16:26:51:2	13	2	
+m_pos	m_nombresalternositems-cliente	&Nombres Alternos Items - Cliente	m_basicos	MLPG	02/03/2004 16:26:51:2	14	2	
+m_pos	m_documentos	Doc&umentos	m_basicos	MLPG	02/03/2004 16:26:51:2	15	2	
+m_pos	m_mensajesfacturas	&Mensajes Facturas	m_basicos	MLPG	02/03/2004 16:26:51:233	19	2	
+m_pos	m_configuracionesiniciales	Con&figuraciones Iniciales	m_basicos	MLPG	02/03/2004 16:26:51:233	20	2	
+m_pos	m_formasdepago	&Formas de Pago	m_basicos	MLPG	02/03/2004 16:26:51:25	21	2	
+m_pos	m_configuraci¾ncontable	Configuraci¾n Con&table	m_basicos	MLPG	02/03/2004 16:26:51:25	22	2	
+m_pos	m_consultarexistencias	E&xistencias	m_transacciones	MLPG	02/03/2004 16:26:51:28	27	2	
+m_pos	m_listasprecios	&Listas Precios	m_transacciones	MLPG	02/03/2004 16:26:51:293	30	2	
+m_pos	m_listaprecioscliente	Lista Precios Cl&iente	m_transacciones	MLPG	02/03/2004 16:26:51:326	38	2	
+m_pos	m_pedidocliente	Pe&dido Cliente	m_transacciones	MLPG	02/03/2004 16:26:51:356	44	2	
+m_pos	m_caja	&Caja	m_transacciones	MLPG	02/03/2004 16:26:51:403	52	2	
+m_pos	m_entradas	&Entradas	m_transacciones	MLPG	02/03/2004 16:26:51:42	57	2	
+m_pos	m_remisionescliente	&Remisiones Cliente	m_transacciones	MLPG	02/03/2004 16:26:51:483	69	2	
+m_pos	m_salidas	&Salidas	m_transacciones	MLPG	02/03/2004 16:26:51:5	73	2	
+m_pos	m_planillas	&Planilla Diaria	m_transacciones	MLPG	02/03/2004 16:26:51:53	78	2	
+m_pos	m_planillamensual	Planilla &Mensual	m_transacciones	MLPG	02/03/2004 16:26:51:543	81	2	
+m_pos	m_contabilizacion	&Contabilizaci¾n	m_transacciones	MLPG	02/03/2004 16:26:51:56	84	2	
+m_pos	m_archivosplanos	&Archivos Planos	m_transacciones	MLPG	02/03/2004 16:26:51:576	87	2	
+m_pos	m_listadodeprecios	&Listado de Precios	m_informes	MLPG	02/03/2004 16:26:51:606	93	2	
+m_pos	m_itemsvendidos	&Items Vendidos	m_informes	MLPG	02/03/2004 16:26:51:606	94	2	
+m_pos	m_existencias	&Existencias	m_informes	MLPG	02/03/2004 16:26:51:606	95	2	
+m_pos	m_facturasporfecha	&Facturas	m_informes	MLPG	02/03/2004 16:26:51:623	96	2	
+m_pos	m_cajas	&Cajas	m_informes	MLPG	02/03/2004 16:26:51:64	99	2	
+m_pos	m_kardex	&Kardex	m_informes	MLPG	02/03/2004 16:26:51:64	100	2	
+m_pos	m_mermas	&Mermas	m_informes	MLPG	02/03/2004 16:26:51:64	101	2	
+m_pos	m_rendimientos	&Rendimientos	m_informes	MLPG	02/03/2004 16:26:51:653	102	2	
+m_pos	m_planillas1	&Planillas por Caja	m_informes	MLPG	02/03/2004 16:26:51:653	103	2	
+m_pos	m_planillasporfecha	Plani&llas por Fecha	m_informes	MLPG	02/03/2004 16:26:51:653	104	2	
+m_pos	m_informefiscaldeventas	Informe &Fiscal de Ventas Diarias	m_informes	MLPG	02/03/2004 16:26:51:653	105	2	
+m_pos	m_itemsvendidos-divisi¾n	Items Vendidos - Di&visi¾n	m_informes	MLPG	02/03/2004 16:26:51:67	106	2	
+m_pos	m_ventasporvendedorcliente	Ventas por &Cliente	m_informes	MLPG	02/03/2004 16:26:51:67	107	2	
+m_pos	m_ventasporcliente-agrupadofecha	Ventas por Cliente - A&grupado Fecha	m_informes	MLPG	02/03/2004 16:26:51:67	108	2	
+m_pos	m_bolsa	Bolsa	m_informes	MLPG	02/03/2004 16:26:51:686	109	2	
+m_pos	m_remisiones	&Remisiones	m_informes	MLPG	02/03/2004 16:26:51:7	112	2	
+m_pos	m_devoluciones	De&voluciones	m_informes	MLPG	02/03/2004 16:26:51:716	115	2	
+m_pos	m_calculadora	&Calculadora	m_correoelectrnico	MLPG	02/03/2004 16:26:51:733	119	2	
+m_pos	m_mensajes	&Mensajes	m_correoelectrnico	MLPG	02/03/2004 16:26:51:733	120	2	
+m_pos	m_-	-	m_correoelectrnico	MLPG	02/03/2004 16:26:51:733	121	2	
+m_pos	m_cambioclave	Cambio Cla&ve	m_correoelectrnico	MLPG	02/03/2004 16:26:51:75	122	2	
+m_pos	m_generaropciones	&Generar Opciones	m_correoelectrnico	MLPG	02/03/2004 16:26:51:75	123	2	
+m_pos	m_refrescaropciones	&Refrescar Opciones	m_correoelectrnico	MLPG	02/03/2004 16:26:51:75	124	2	
+m_pos	m_cascada	&Cascada	m_ventana	MLPG	02/03/2004 16:26:51:763	126	2	
+m_pos	m_mosaicohorizontal	Mosaico &Horizontal	m_ventana	MLPG	02/03/2004 16:26:51:763	127	2	
+m_pos	m_mosaicovertical	Mosaico &Vertical	m_ventana	MLPG	02/03/2004 16:26:51:78	128	2	
+m_pos	m_organizariconos	&Organizar Iconos	m_ventana	MLPG	02/03/2004 16:26:51:78	129	2	
+m_pos	m_desplegada	&Desplegada	m_ventana	MLPG	02/03/2004 16:26:51:78	130	2	
+m_pos	m_acercadevaniatechnology	&Acerca de ...	m_ayuda	MLPG	02/03/2004 16:26:51:793	132	2	
+m_pos	m_tiposdemoneda	&Tipos de Moneda	m_monedas	MLPG	02/03/2004 16:26:51:17	7	3	
+m_pos	m_tasasdecambio	&Tasas de Cambio	m_monedas	MLPG	02/03/2004 16:26:51:17	8	3	
+m_pos	m_tiposdocumentobodega	&Tipos Documento Bodega	m_documentos	MLPG	02/03/2004 16:26:51:216	16	3	
+m_pos	m_documentosporpuntodepago	&Documentos por Punto de Pago	m_documentos	MLPG	02/03/2004 16:26:51:216	17	3	
+m_pos	m_tiposdocumentoporcliente	Tipos Documento por &Cliente	m_documentos	MLPG	02/03/2004 16:26:51:233	18	3	
+m_pos	m_formadepago	&Forma de Pago	m_configuraci¾ncontable	MLPG	02/03/2004 16:26:51:25	23	3	
+m_pos	m_divisi¾n	&Divisi¾n	m_configuraci¾ncontable	MLPG	02/03/2004 16:26:51:263	24	3	
+m_pos	m_redondeo	&Redondeo	m_configuraci¾ncontable	MLPG	02/03/2004 16:26:51:263	25	3	
+m_pos	m_consultar	&Consultar	m_consultarexistencias	MLPG	02/03/2004 16:26:51:28	28	3	
+m_pos	m_mermasrendimientos1	&Mermas/Rendimientos	m_consultarexistencias	MLPG	02/03/2004 16:26:51:28	29	3	
+m_pos	m_nueva2	&Nuevo	m_listasprecios	MLPG	02/03/2004 16:26:51:293	31	3	
+m_pos	m_consultar1	&Consultar	m_listasprecios	MLPG	02/03/2004 16:26:51:293	32	3	
+m_pos	m_modificar	&Modificar	m_listasprecios	MLPG	02/03/2004 16:26:51:31	33	3	
+m_pos	m_aprobar	&Aprobar	m_listasprecios	MLPG	02/03/2004 16:26:51:31	34	3	
+m_pos	m_anular2	An&ular	m_listasprecios	MLPG	02/03/2004 16:26:51:31	35	3	
+m_pos	m_modificarlistaaprobada	Modificar &Lista Aprobada	m_listasprecios	MLPG	02/03/2004 16:26:51:326	36	3	
+m_pos	m_mximodstoporlnea	&Mßximo Dsto por LÝnea	m_listasprecios	MLPG	02/03/2004 16:26:51:326	37	3	
+m_pos	m_nuevo2	&Nuevo	m_listaprecioscliente	MLPG	02/03/2004 16:26:51:326	39	3	
+m_pos	m_consultar4	&Consultar	m_listaprecioscliente	MLPG	02/03/2004 16:26:51:34	40	3	
+m_pos	m_modificar1	&Modificar	m_listaprecioscliente	MLPG	02/03/2004 16:26:51:34	41	3	
+m_pos	m_anular4	An&ular	m_listaprecioscliente	MLPG	02/03/2004 16:26:51:34	42	3	
+m_pos	m_aprobar1	&Aprobar	m_listaprecioscliente	MLPG	02/03/2004 16:26:51:356	43	3	
+m_pos	m_nuevo3	&Nuevo	m_pedidocliente	MLPG	02/03/2004 16:26:51:356	45	3	
+m_pos	m_consultar6	&Consultar	m_pedidocliente	MLPG	02/03/2004 16:26:51:373	46	3	
+m_pos	m_modificar2	&Modificar	m_pedidocliente	MLPG	02/03/2004 16:26:51:373	47	3	
+m_pos	m_anular5	An&ular	m_pedidocliente	MLPG	02/03/2004 16:26:51:373	48	3	
+m_pos	m_-1	-	m_pedidocliente	MLPG	02/03/2004 16:26:51:39	49	3	
+m_pos	m_aprobar2	&Aprobar	m_pedidocliente	MLPG	02/03/2004 16:26:51:39	50	3	
+m_pos	m_cerrar	Ce&rrar	m_pedidocliente	MLPG	02/03/2004 16:26:51:39	51	3	
+m_pos	m_nueva	&Nueva	m_caja	MLPG	02/03/2004 16:26:51:403	53	3	
+m_pos	m_consulta	&Consulta	m_caja	MLPG	02/03/2004 16:26:51:403	54	3	
+m_pos	m_anular	&Anular	m_caja	MLPG	02/03/2004 16:26:51:403	55	3	
+m_pos	m_cierre	"C&ierre	Ctrl+S"	m_caja	MLPG	02/03/2004 16:26:51:42	56	3	
+m_pos	m_entradaproduccion	Entrada por &Producci¾n	m_entradas	MLPG	02/03/2004 16:26:51:42	58	3	
+m_pos	m_entradapordevolucioncliente	Entrada por Devolucion &Cliente	m_entradas	MLPG	02/03/2004 16:26:51:466	65	3	
+m_pos	m_registrarcantidadrecibidacliente	&Registrar Cantidad Recibida Cliente	m_remisionescliente	MLPG	02/03/2004 16:26:51:483	70	3	
+m_pos	m_consultar8	&Consultar	m_remisionescliente	MLPG	02/03/2004 16:26:51:5	71	3	
+m_pos	m_cambiarnitremisi¾n	Cambiar &Nit Remisi¾n	m_remisionescliente	MLPG	02/03/2004 16:26:51:5	72	3	
+m_pos	m_ventapos	&Venta	m_salidas	MLPG	02/03/2004 16:26:51:513	74	3	
+m_pos	m_generar	&Generar Planilla por Caja	m_planillas	MLPG	02/03/2004 16:26:51:53	79	3	
+m_pos	m_consultar5	&Consultar Planilla por Caja	m_planillas	MLPG	02/03/2004 16:26:51:53	80	3	
+m_pos	m_generarplanillamensual	&Generar Planilla Mensual	m_planillamensual	MLPG	02/03/2004 16:26:51:543	82	3	
+m_pos	m_consultarplanillamensual	&Consultar Planilla Mensual	m_planillamensual	MLPG	02/03/2004 16:26:51:543	83	3	
+m_pos	m_contabilizacionfacturas	Contabilizacion &Facturas	m_contabilizacion	MLPG	02/03/2004 16:26:51:56	85	3	
+m_pos	m_contabilizaciondevoluciones	Contabilizacion &Devoluciones	m_contabilizacion	MLPG	02/03/2004 16:26:51:576	86	3	
+m_pos	m_ventas---unix	Ventas ---> &UNIX	m_archivosplanos	MLPG	02/03/2004 16:26:51:576	88	3	
+m_pos	m_ventas---contabilidad	Ventas ---> &Contabilidad	m_archivosplanos	MLPG	02/03/2004 16:26:51:59	89	3	
+m_pos	m_archivosplanos---basededatos	&Archivos Planos ---> Base de Datos	m_archivosplanos	MLPG	02/03/2004 16:26:51:59	90	3	
+m_pos	m_copiabasededatos	Copia &Base de Datos	m_archivosplanos	MLPG	02/03/2004 16:26:51:59	91	3	
+m_pos	m_facturasporfecha1	&Facturas por Fecha	m_facturasporfecha	MLPG	02/03/2004 16:26:51:623	97	3	
+m_pos	m_impresionfacturas	&Impresi¾n Facturas	m_facturasporfecha	MLPG	02/03/2004 16:26:51:623	98	3	
+m_pos	m_facturasregistradasenbolsa	Facturas Registradas en Bolsa	m_bolsa	MLPG	02/03/2004 16:26:51:686	110	3	
+m_pos	m_generararchivoplano	&Generar Archivo Plano	m_bolsa	MLPG	02/03/2004 16:26:51:686	111	3	
+m_pos	m_remisionessinfacturar	Remisiones sin &Facturar	m_remisiones	MLPG	02/03/2004 16:26:51:7	113	3	
+m_pos	m_remisionesagrupadapornombrealtern	Remisiones Agrupada por Nombre Alterno - Cliente	m_remisiones	MLPG	02/03/2004 16:26:51:7	114	3	
+m_pos	m_itemsdevueltos-division	Items Devueltos - &Division	m_devoluciones	MLPG	02/03/2004 16:26:51:716	116	3	
+m_pos	m_devolucionesporcliente	Devoluciones por &Cliente	m_devoluciones	MLPG	02/03/2004 16:26:51:716	117	3	
+m_pos	m_nuevo5	"&Nuevo	Ctrl+E"	m_entradaproduccion	MLPG	02/03/2004 16:26:51:436	59	4	
+m_pos	m_consultar7	&Consultar	m_entradaproduccion	MLPG	02/03/2004 16:26:51:436	60	4	
+m_pos	m_modificar4	&Modificar	m_entradaproduccion	MLPG	02/03/2004 16:26:51:436	61	4	
+m_pos	m_anular8	&Anular	m_entradaproduccion	MLPG	02/03/2004 16:26:51:45	62	4	
+m_pos	m_-2	-	m_entradaproduccion	MLPG	02/03/2004 16:26:51:45	63	4	
+m_pos	m_mermasrendimientos	Mermas/&Rendimientos	m_entradaproduccion	MLPG	02/03/2004 16:26:51:45	64	4	
+m_pos	m_nuevo1	&Nuevo	m_entradapordevolucioncliente	MLPG	02/03/2004 16:26:51:466	66	4	
+m_pos	m_consultar3	&Consultar	m_entradapordevolucioncliente	MLPG	02/03/2004 16:26:51:466	67	4	
+m_pos	m_anular1	&Anular	m_entradapordevolucioncliente	MLPG	02/03/2004 16:26:51:483	68	4	
+m_pos	m_nuevo	&Nuevo	m_ventapos	MLPG	02/03/2004 16:26:51:513	75	4	
+m_pos	m_consultar2	&Consultar	m_ventapos	MLPG	02/03/2004 16:26:51:513	76	4	
+m_pos	m_anular3	&Anular	m_ventapos	MLPG	02/03/2004 16:26:51:513	77	4	

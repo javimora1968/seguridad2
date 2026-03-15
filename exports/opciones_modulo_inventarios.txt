@@ -1,0 +1,323 @@
+m_inventarios	m_archivo	&Salir	m_inventarios	JEMD	02/09/2003 11:55:13:826	1	1	
+m_inventarios	m_basicos	&Basicos	m_inventarios	JEMD	02/09/2003 11:55:13:826	2	1	
+m_inventarios	m_productos	&Items	m_basicos	JEMD	02/09/2003 11:55:13:826	3	2	
+m_inventarios	m_lineas	&Lineas	m_productos	JEMD	02/09/2003 11:55:13:826	4	3	
+m_inventarios	m_grupos	&Grupos	m_productos	JEMD	02/09/2003 11:55:13:843	5	3	
+m_inventarios	m_subgrupos	&Subgrupos	m_productos	JEMD	02/09/2003 11:55:13:843	6	3	
+m_inventarios	m_divisiones	&Divisiones	m_productos	JEMD	02/09/2003 11:55:13:86	7	3	
+m_inventarios	m_divisiones1	Divisiones	m_divisiones	JEMD	02/09/2003 11:55:13:86	8	4	
+m_inventarios	m_perfilcontabledivisincentro	Perfil Contable Divisi¾n Centro	m_divisiones	JEMD	02/09/2003 11:55:13:86	9	4	
+m_inventarios	m_articulo	&Item	m_productos	JEMD	02/09/2003 11:55:13:876	10	3	
+m_inventarios	m_caracteristicas	&Caracteristicas	m_basicos	JEMD	02/09/2003 11:55:13:876	11	2	
+m_inventarios	m_especiales	Factores de Calidad	m_caracteristicas	JEMD	02/09/2003 11:55:13:876	12	3	
+m_inventarios	m_-	-	m_caracteristicas	JEMD	02/09/2003 11:55:13:876	13	3	
+m_inventarios	m_caracteristicaspordivision	Caracteristicas por Division	m_caracteristicas	JEMD	02/09/2003 11:55:13:876	14	3	
+m_inventarios	m_caracteristicasporitem	Factores de calidad por Item	m_caracteristicas	JEMD	02/09/2003 11:55:13:89	15	3	
+m_inventarios	m_bodegas	&Bodegas	m_basicos	JEMD	02/09/2003 11:55:13:89	16	2	
+m_inventarios	m_bodegas1	Bodegas	m_bodegas	JEMD	02/09/2003 11:55:13:89	17	3	
+m_inventarios	m_perfilcontabledivisionbodega	Perfil Contable Division Bodega	m_bodegas	JEMD	02/09/2003 11:55:13:89	18	3	
+m_inventarios	m_unidades1	&Entidades Asociadas	m_basicos	JEMD	02/09/2003 11:55:13:89	19	2	
+m_inventarios	m_proveedores	Proveedores	m_unidades1	JEMD	02/09/2003 11:55:13:89	20	3	
+m_inventarios	m_clientes	Clientes	m_unidades1	JEMD	02/09/2003 11:55:13:906	21	3	
+m_inventarios	m_titulares	&Titulares	m_clientes	JEMD	02/09/2003 11:55:13:906	22	4	
+m_inventarios	m_sucursal	&Sucursal	m_clientes	JEMD	02/09/2003 11:55:13:906	23	4	
+m_inventarios	m_unidades11	&Unidades	m_basicos	JEMD	02/09/2003 11:55:13:906	24	2	
+m_inventarios	m_factoresconversion	&Factores Conversion	m_basicos	JEMD	02/09/2003 11:55:13:92	25	2	
+m_inventarios	m_equivalencias1	&Articulo Sustituto	m_basicos	JEMD	02/09/2003 11:55:13:92	26	2	
+m_inventarios	m_stocks	&Stocks	m_basicos	JEMD	02/09/2003 11:55:13:953	27	2	
+m_inventarios	m_tiposdocumentosyconsecutivos	Tipos Documentos y Consecutivos	m_basicos	JEMD	02/09/2003 11:55:13:953	28	2	
+m_inventarios	m_perfiltiposdocumentosporbodega	Tipos Documentos por Bodega	m_basicos	JEMD	02/09/2003 11:55:13:953	29	2	
+m_inventarios	m_tiposdocumentoporcliente	Tipos Documento Por Cliente	m_basicos	JEMD	02/09/2003 11:55:13:953	30	2	
+m_inventarios	m_nombresalternositems	Nombres Alternos Items	m_basicos	JEMD	02/09/2003 11:55:13:953	31	2	
+m_inventarios	m_centrosdecosto	Centros de Costo	m_basicos	JEMD	02/09/2003 11:55:13:966	32	2	
+m_inventarios	m_configuracioncontable	Configuracion Contable	m_basicos	JEMD	02/09/2003 11:55:13:966	33	2	
+m_inventarios	m_cuentadebitoconsumos	&Cuenta Debito Consumos	m_configuracioncontable	JEMD	02/09/2003 11:55:13:966	34	3	
+m_inventarios	m_cuentacreditoconsumos	C&uenta Credito Consumos	m_configuracioncontable	JEMD	02/09/2003 11:55:13:966	35	3	
+m_inventarios	m_permisosporbodega	Permisos Por Bodega	m_basicos	JEMD	02/09/2003 11:55:13:966	36	2	
+m_inventarios	m_salvarmovimientos	Salvar Movimientos	m_basicos	JEMD	02/09/2003 11:55:13:983	37	2	
+m_inventarios	m_probando	Borrar Movimientos	m_basicos	JEMD	02/09/2003 11:55:13:983	38	2	
+m_inventarios	m_transaccion	Tr&ansacciones	m_inventarios	JEMD	02/09/2003 11:55:13:983	39	1	
+m_inventarios	m_entradas	&Entradas	m_transaccion	JEMD	02/09/2003 11:55:13:983	40	2	
+m_inventarios	m_compra	&Compra	m_entradas	JEMD	02/09/2003 11:55:14	41	3	
+m_inventarios	m_nuevo	&Nuevo	m_compra	JEMD	02/09/2003 11:55:14	42	4	
+m_inventarios	m_consultar	&Consultar	m_compra	JEMD	02/09/2003 11:55:14	43	4	
+m_inventarios	m_anular	&Anular	m_compra	JEMD	02/09/2003 11:55:14	44	4	
+m_inventarios	m_precargueproduccion	Precargue Produccion	m_entradas	JEMD	02/09/2003 11:55:14	45	3	
+m_inventarios	m_nuevo24	&Nuevo	m_precargueproduccion	JEMD	02/09/2003 11:55:14	46	4	
+m_inventarios	m_consultar26	&Consultar	m_precargueproduccion	JEMD	02/09/2003 11:55:14:016	47	4	
+m_inventarios	m_anular19	&Anular	m_precargueproduccion	JEMD	02/09/2003 11:55:14:016	48	4	
+m_inventarios	m_precargueproduccionhuevo	Precargue Produccion Huevo	m_entradas	JEMD	02/09/2003 11:55:14:016	49	3	
+m_inventarios	m_nuevo39	&Nuevo	m_precargueproduccionhuevo	JEMD	02/09/2003 11:55:14:016	50	4	
+m_inventarios	m_consultar42	&Consultar	m_precargueproduccionhuevo	JEMD	02/09/2003 11:55:14:016	51	4	
+m_inventarios	m_anular35	&Anular	m_precargueproduccionhuevo	JEMD	02/09/2003 11:55:14:016	52	4	
+m_inventarios	m_precargueproduccionvisceras	Precargue produccion visceras	m_entradas	JEMD	02/09/2003 11:55:14:03	53	3	
+m_inventarios	m_nuevo27	&Nuevo	m_precargueproduccionvisceras	JEMD	02/09/2003 11:55:14:03	54	4	
+m_inventarios	m_consultar29	&Consultar	m_precargueproduccionvisceras	JEMD	02/09/2003 11:55:14:03	55	4	
+m_inventarios	m_anular23	&Anular	m_precargueproduccionvisceras	JEMD	02/09/2003 11:55:14:03	56	4	
+m_inventarios	m_precargueproduccionterceros	Precargue Produccion Terceros	m_entradas	JEMD	02/09/2003 11:55:14:03	57	3	
+m_inventarios	m_nuevo33	&Nuevo	m_precargueproduccionterceros	JEMD	02/09/2003 11:55:14:046	58	4	
+m_inventarios	m_consultar36	&Consultar	m_precargueproduccionterceros	JEMD	02/09/2003 11:55:14:046	59	4	
+m_inventarios	m_anular29	&Anular	m_precargueproduccionterceros	JEMD	02/09/2003 11:55:14:046	60	4	
+m_inventarios	m_precargueproduccionviscerastercero	Precargue Produccion Visceras Terceros	m_entradas	JEMD	02/09/2003 11:55:14:046	61	3	
+m_inventarios	m_nuevo34	&Nuevo	m_precargueproduccionviscerastercero	JEMD	02/09/2003 11:55:14:063	62	4	
+m_inventarios	m_consultar37	&Consultar	m_precargueproduccionviscerastercero	JEMD	02/09/2003 11:55:14:063	63	4	
+m_inventarios	m_anular30	&Anular	m_precargueproduccionviscerastercero	JEMD	02/09/2003 11:55:14:063	64	4	
+m_inventarios	m_porproduccion	&Por Produccion	m_entradas	JEMD	02/09/2003 11:55:14:063	65	3	
+m_inventarios	m_nuevo16	&Nuevo	m_porproduccion	JEMD	02/09/2003 11:55:14:063	66	4	
+m_inventarios	m_consultar17	&Consultar	m_porproduccion	JEMD	02/09/2003 11:55:14:076	67	4	
+m_inventarios	m_anular12	&Anular	m_porproduccion	JEMD	02/09/2003 11:55:14:076	68	4	
+m_inventarios	m_porclasificacion	Por Clasificacion	m_entradas	JEMD	02/09/2003 11:55:14:076	69	3	
+m_inventarios	m_nuevo43	Nuevo	m_porclasificacion	JEMD	02/09/2003 11:55:14:076	70	4	
+m_inventarios	m_consultar46	Consultar	m_porclasificacion	JEMD	02/09/2003 11:55:14:076	71	4	
+m_inventarios	m_anular39	Anular	m_porclasificacion	JEMD	02/09/2003 11:55:14:076	72	4	
+m_inventarios	m_ingresosabodega	Ingresos a Bodega	m_entradas	JEMD	02/09/2003 11:55:14:076	73	3	
+m_inventarios	m_nuevo42	Nuevo	m_ingresosabodega	JEMD	02/09/2003 11:55:14:093	74	4	
+m_inventarios	m_consultar45	Consultar	m_ingresosabodega	JEMD	02/09/2003 11:55:14:093	75	4	
+m_inventarios	m_anular38	Anular	m_ingresosabodega	JEMD	02/09/2003 11:55:14:093	76	4	
+m_inventarios	m_porproducciondeterceros	Por produccion de Terceros	m_entradas	JEMD	02/09/2003 11:55:14:093	77	3	
+m_inventarios	m_nuevo31	&Nuevo	m_porproducciondeterceros	JEMD	02/09/2003 11:55:14:093	78	4	
+m_inventarios	m_consultar34	&Consultar	m_porproducciondeterceros	JEMD	02/09/2003 11:55:14:093	79	4	
+m_inventarios	m_anular27	&Anular	m_porproducciondeterceros	JEMD	02/09/2003 11:55:14:093	80	4	
+m_inventarios	m_ajusteinvfis	&Rendimientos	m_entradas	JEMD	02/09/2003 11:55:14:11	81	3	
+m_inventarios	m_nuevo3	&Nuevo	m_ajusteinvfis	JEMD	02/09/2003 11:55:14:11	82	4	
+m_inventarios	m_consultar3	&Consultar	m_ajusteinvfis	JEMD	02/09/2003 11:55:14:11	83	4	
+m_inventarios	m_anular3	&Anular	m_ajusteinvfis	JEMD	02/09/2003 11:55:14:11	84	4	
+m_inventarios	m_poraprovechamientos	Por &Aprovechamientos	m_entradas	JEMD	02/09/2003 11:55:14:11	85	3	
+m_inventarios	m_nuevo17	&Nuevo	m_poraprovechamientos	JEMD	02/09/2003 11:55:14:11	86	4	
+m_inventarios	m_consultar19	&Consultar	m_poraprovechamientos	JEMD	02/09/2003 11:55:14:126	87	4	
+m_inventarios	m_anular13	&Anular	m_poraprovechamientos	JEMD	02/09/2003 11:55:14:126	88	4	
+m_inventarios	m_porsaldo	Por &Saldo	m_entradas	JEMD	02/09/2003 11:55:14:126	89	3	
+m_inventarios	m_nuevo19	&Nuevo	m_porsaldo	JEMD	02/09/2003 11:55:14:14	90	4	
+m_inventarios	m_consultar21	&Consultar	m_porsaldo	JEMD	02/09/2003 11:55:14:14	91	4	
+m_inventarios	m_anular15	&Anular	m_porsaldo	JEMD	02/09/2003 11:55:14:14	92	4	
+m_inventarios	m_devolucioncliente	De&volucion Cliente	m_entradas	JEMD	02/09/2003 11:55:14:14	93	3	
+m_inventarios	m_nuevo1	&Nuevo	m_devolucioncliente	JEMD	02/09/2003 11:55:14:14	94	4	
+m_inventarios	m_consultar1	&Consultar	m_devolucioncliente	JEMD	02/09/2003 11:55:14:14	95	4	
+m_inventarios	m_anular1	&Anular	m_devolucioncliente	JEMD	02/09/2003 11:55:14:156	96	4	
+m_inventarios	m_porprestamo	Por presta&mo	m_entradas	JEMD	02/09/2003 11:55:14:156	97	3	
+m_inventarios	m_nuevo22	&Nuevo	m_porprestamo	JEMD	02/09/2003 11:55:14:156	98	4	
+m_inventarios	m_consultar24	&Consultar	m_porprestamo	JEMD	02/09/2003 11:55:14:156	99	4	
+m_inventarios	m_anular17	&Anular	m_porprestamo	JEMD	02/09/2003 11:55:14:156	100	4	
+m_inventarios	m_pordevoluciondeprestamos	Por Devolucion de Prestamos	m_entradas	JEMD	02/09/2003 11:55:14:156	101	3	
+m_inventarios	m_nuevo36	Nuevo	m_pordevoluciondeprestamos	JEMD	02/09/2003 11:55:14:17	102	4	
+m_inventarios	m_consultar39	Consultar	m_pordevoluciondeprestamos	JEMD	02/09/2003 11:55:14:17	103	4	
+m_inventarios	m_anular32	Anular	m_pordevoluciondeprestamos	JEMD	02/09/2003 11:55:14:17	104	4	
+m_inventarios	m_devolucionproduccin	&Devolucion Producci¾n	m_entradas	JEMD	02/09/2003 11:55:14:17	105	3	
+m_inventarios	m_nuevo2	&Nuevo	m_devolucionproduccin	JEMD	02/09/2003 11:55:14:186	106	4	
+m_inventarios	m_consultar2	&Consultar	m_devolucionproduccin	JEMD	02/09/2003 11:55:14:186	107	4	
+m_inventarios	m_anular2	&Anular	m_devolucionproduccin	JEMD	02/09/2003 11:55:14:186	108	4	
+m_inventarios	m_consignacion	C&onsignacion	m_entradas	JEMD	02/09/2003 11:55:14:186	109	3	
+m_inventarios	m_nuevo4	&Nuevo	m_consignacion	JEMD	02/09/2003 11:55:14:186	110	4	
+m_inventarios	m_consultar4	&Consultar	m_consignacion	JEMD	02/09/2003 11:55:14:186	111	4	
+m_inventarios	m_anular4	&Anular	m_consignacion	JEMD	02/09/2003 11:55:14:186	112	4	
+m_inventarios	m_obsequio	O&bsequio	m_entradas	JEMD	02/09/2003 11:55:14:203	113	3	
+m_inventarios	m_nuevo5	&Nuevo	m_obsequio	JEMD	02/09/2003 11:55:14:203	114	4	
+m_inventarios	m_consultar5	&Consultar	m_obsequio	JEMD	02/09/2003 11:55:14:203	115	4	
+m_inventarios	m_anular5	&Anular	m_obsequio	JEMD	02/09/2003 11:55:14:203	116	4	
+m_inventarios	m_portransformacion	Por Transformacion	m_entradas	JEMD	02/09/2003 11:55:14:203	117	3	
+m_inventarios	m_nuevo23	&Nuevo	m_portransformacion	JEMD	02/09/2003 11:55:14:203	118	4	
+m_inventarios	m_consultar25	&Consultar	m_portransformacion	JEMD	02/09/2003 11:55:14:216	119	4	
+m_inventarios	m_anular18	&Anular	m_portransformacion	JEMD	02/09/2003 11:55:14:216	120	4	
+m_inventarios	m_porajustes	Por Ajustes	m_entradas	JEMD	02/09/2003 11:55:14:216	121	3	
+m_inventarios	m_nuevo12	&Nuevo	m_porajustes	JEMD	02/09/2003 11:55:14:216	122	4	
+m_inventarios	m_consultar14	&Consultar	m_porajustes	JEMD	02/09/2003 11:55:14:216	123	4	
+m_inventarios	m_anular10	&Anular	m_porajustes	JEMD	02/09/2003 11:55:14:216	124	4	
+m_inventarios	m_porajustesenvalores	Por Ajustes en Valores	m_entradas	JEMD	02/09/2003 11:55:14:233	125	3	
+m_inventarios	m_nuevo37	&Nuevo	m_porajustesenvalores	JEMD	02/09/2003 11:55:14:233	126	4	
+m_inventarios	m_consultar40	&Consultar	m_porajustesenvalores	JEMD	02/09/2003 11:55:14:233	127	4	
+m_inventarios	m_anular33	&Anular	m_porajustesenvalores	JEMD	02/09/2003 11:55:14:233	128	4	
+m_inventarios	m_porsobrante	Por Sobrante	m_entradas	JEMD	02/09/2003 11:55:14:233	129	3	
+m_inventarios	m_nuevo28	&Nuevo	m_porsobrante	JEMD	02/09/2003 11:55:14:233	130	4	
+m_inventarios	m_consultar30	&Consultar	m_porsobrante	JEMD	02/09/2003 11:55:14:233	131	4	
+m_inventarios	m_anular24	&Anular	m_porsobrante	JEMD	02/09/2003 11:55:14:25	132	4	
+m_inventarios	m_devolucionconsumo	Devolucio&n Consumo	m_entradas	JEMD	02/09/2003 11:55:14:25	133	3	
+m_inventarios	m_nuevo6	&Nuevo	m_devolucionconsumo	JEMD	02/09/2003 11:55:14:25	134	4	
+m_inventarios	m_consultar6	&Consultar	m_devolucionconsumo	JEMD	02/09/2003 11:55:14:25	135	4	
+m_inventarios	m_anular6	&Anular	m_devolucionconsumo	JEMD	02/09/2003 11:55:14:25	136	4	
+m_inventarios	m_salidas	&Salidas	m_transaccion	JEMD	02/09/2003 11:55:14:25	137	2	
+m_inventarios	m_consumo	&Consumo	m_salidas	JEMD	02/09/2003 11:55:14:266	138	3	
+m_inventarios	m_n	&Nuevo	m_consumo	JEMD	02/09/2003 11:55:14:266	139	4	
+m_inventarios	m_consultar8	&Consultar	m_consumo	JEMD	02/09/2003 11:55:14:266	140	4	
+m_inventarios	m_eliminar2	&Anular	m_consumo	JEMD	02/09/2003 11:55:14:266	141	4	
+m_inventarios	m_produccion	&A Produccion	m_salidas	JEMD	02/09/2003 11:55:14:266	142	3	
+m_inventarios	m_nuevo11	&Nuevo	m_produccion	JEMD	02/09/2003 11:55:14:266	143	4	
+m_inventarios	m_consultar13	&Consultar	m_produccion	JEMD	02/09/2003 11:55:14:266	144	4	
+m_inventarios	m_anular9	&Anular	m_produccion	JEMD	02/09/2003 11:55:14:28	145	4	
+m_inventarios	m_porproducciondeterceros1	Por produccion de Terceros	m_salidas	JEMD	02/09/2003 11:55:14:28	146	3	
+m_inventarios	m_nuevo32	&Nuevo	m_porproducciondeterceros1	JEMD	02/09/2003 11:55:14:28	147	4	
+m_inventarios	m_consultar35	&Consultar	m_porproducciondeterceros1	JEMD	02/09/2003 11:55:14:28	148	4	
+m_inventarios	m_anular28	&Anular	m_porproducciondeterceros1	JEMD	02/09/2003 11:55:14:28	149	4	
+m_inventarios	m_ajustesinvfis	&Mermas	m_salidas	JEMD	02/09/2003 11:55:14:28	150	3	
+m_inventarios	m_nuevo13	&Nuevo	m_ajustesinvfis	JEMD	02/09/2003 11:55:14:296	151	4	
+m_inventarios	m_consultar15	&Consultar	m_ajustesinvfis	JEMD	02/09/2003 11:55:14:296	152	4	
+m_inventarios	m_anular11	&Anular	m_ajustesinvfis	JEMD	02/09/2003 11:55:14:296	153	4	
+m_inventarios	m_trasladosporfacturacion	&Traslados Por Facturacion	m_salidas	JEMD	02/09/2003 11:55:14:296	154	3	
+m_inventarios	m_nuevo18	&Nuevo	m_trasladosporfacturacion	JEMD	02/09/2003 11:55:14:296	155	4	
+m_inventarios	m_consultar20	&Consultar	m_trasladosporfacturacion	JEMD	02/09/2003 11:55:14:296	156	4	
+m_inventarios	m_anular14	&Anular	m_trasladosporfacturacion	JEMD	02/09/2003 11:55:14:313	157	4	
+m_inventarios	m_devolucionproveedores	&Devolucion a Proveedores	m_salidas	JEMD	02/09/2003 11:55:14:313	158	3	
+m_inventarios	m_nuevo8	&Nuevo	m_devolucionproveedores	JEMD	02/09/2003 11:55:14:313	159	4	
+m_inventarios	m_consultar10	&Consultar	m_devolucionproveedores	JEMD	02/09/2003 11:55:14:313	160	4	
+m_inventarios	m_anular7	&Anular	m_devolucionproveedores	JEMD	02/09/2003 11:55:14:313	161	4	
+m_inventarios	m_venta	&Venta	m_salidas	JEMD	02/09/2003 11:55:14:326	162	3	
+m_inventarios	m_nuevo9	&Nuevo	m_venta	JEMD	02/09/2003 11:55:14:326	163	4	
+m_inventarios	m_consultar11	&Consultar	m_venta	JEMD	02/09/2003 11:55:14:326	164	4	
+m_inventarios	m_anular8	&Anular	m_venta	JEMD	02/09/2003 11:55:14:326	165	4	
+m_inventarios	m_prestamos	&Prestamos	m_salidas	JEMD	02/09/2003 11:55:14:326	166	3	
+m_inventarios	m_nuevo21	&Nuevo	m_prestamos	JEMD	02/09/2003 11:55:14:326	167	4	
+m_inventarios	m_consultar23	&Consultar	m_prestamos	JEMD	02/09/2003 11:55:14:326	168	4	
+m_inventarios	m_anular16	&Anular	m_prestamos	JEMD	02/09/2003 11:55:14:343	169	4	
+m_inventarios	m_devolucionprestamos	Devolucion Prestamos	m_salidas	JEMD	02/09/2003 11:55:14:343	170	3	
+m_inventarios	m_nuevo35	Nuevo	m_devolucionprestamos	JEMD	02/09/2003 11:55:14:343	171	4	
+m_inventarios	m_consultar38	Consultar	m_devolucionprestamos	JEMD	02/09/2003 11:55:14:343	172	4	
+m_inventarios	m_anular31	Anular	m_devolucionprestamos	JEMD	02/09/2003 11:55:14:343	173	4	
+m_inventarios	m_obsequiosal	&Obsequio	m_salidas	JEMD	02/09/2003 11:55:14:36	174	3	
+m_inventarios	m_nuevo7	&Nuevo	m_obsequiosal	JEMD	02/09/2003 11:55:14:36	175	4	
+m_inventarios	m_consultar9	&Consultar	m_obsequiosal	JEMD	02/09/2003 11:55:14:36	176	4	
+m_inventarios	m_eliminar3	&Anular	m_obsequiosal	JEMD	02/09/2003 11:55:14:36	177	4	
+m_inventarios	m_aclasificacion	A Clasificacion	m_salidas	JEMD	02/09/2003 11:55:14:36	178	3	
+m_inventarios	m_nuevo44	Nuevo	m_aclasificacion	JEMD	02/09/2003 11:55:14:36	179	4	
+m_inventarios	m_consultar47	Consultar	m_aclasificacion	JEMD	02/09/2003 11:55:14:376	180	4	
+m_inventarios	m_anular40	Anular	m_aclasificacion	JEMD	02/09/2003 11:55:14:376	181	4	
+m_inventarios	m_baja	&Baja	m_salidas	JEMD	02/09/2003 11:55:14:376	182	3	
+m_inventarios	m_nuevo10	&Nuevo	m_baja	JEMD	02/09/2003 11:55:14:376	183	4	
+m_inventarios	m_consultar12	&Consultar	m_baja	JEMD	02/09/2003 11:55:14:376	184	4	
+m_inventarios	m_eliminar4	&Anular	m_baja	JEMD	02/09/2003 11:55:14:376	185	4	
+m_inventarios	m_portransformacion1	Por transformacion	m_salidas	JEMD	02/09/2003 11:55:14:376	186	3	
+m_inventarios	m_nuevo25	&Nuevo	m_portransformacion1	JEMD	02/09/2003 11:55:14:39	187	4	
+m_inventarios	m_consultar27	&Consultar	m_portransformacion1	JEMD	02/09/2003 11:55:14:39	188	4	
+m_inventarios	m_anular20	&Anular	m_portransformacion1	JEMD	02/09/2003 11:55:14:39	189	4	
+m_inventarios	m_porajuste	Por Ajuste	m_salidas	JEMD	02/09/2003 11:55:14:39	190	3	
+m_inventarios	m_nuevo29	&Nuevo	m_porajuste	JEMD	02/09/2003 11:55:14:39	191	4	
+m_inventarios	m_consultar31	&Consultar	m_porajuste	JEMD	02/09/2003 11:55:14:39	192	4	
+m_inventarios	m_anular25	&Anular	m_porajuste	JEMD	02/09/2003 11:55:14:39	193	4	
+m_inventarios	m_porajustesenvalores_salida	Por Ajuste en Valores	m_salidas	JEMD	02/09/2003 11:55:14:406	194	3	
+m_inventarios	m_nuevo38	&Nuevo	m_porajustesenvalores_salida	JEMD	02/09/2003 11:55:14:406	195	4	
+m_inventarios	m_consultar41	&Consultar	m_porajustesenvalores_salida	JEMD	02/09/2003 11:55:14:406	196	4	
+m_inventarios	m_anular34	&Anular	m_porajustesenvalores_salida	JEMD	02/09/2003 11:55:14:406	197	4	
+m_inventarios	m_porfaltante	Por Faltante	m_salidas	JEMD	02/09/2003 11:55:14:406	198	3	
+m_inventarios	m_nuevo30	&Nuevo	m_porfaltante	JEMD	02/09/2003 11:55:14:406	199	4	
+m_inventarios	m_consultar32	&Consultar	m_porfaltante	JEMD	02/09/2003 11:55:14:42	200	4	
+m_inventarios	m_anular26	&Anular	m_porfaltante	JEMD	02/09/2003 11:55:14:42	201	4	
+m_inventarios	m_trasladosbodegaexterna	Traslados Bodega Externa	m_salidas	JEMD	02/09/2003 11:55:14:42	202	3	
+m_inventarios	m_nuevo41	&Nuevo	m_trasladosbodegaexterna	JEMD	02/09/2003 11:55:14:42	203	4	
+m_inventarios	m_consultar44	&Consultar	m_trasladosbodegaexterna	JEMD	02/09/2003 11:55:14:42	204	4	
+m_inventarios	m_anular37	&Anular	m_trasladosbodegaexterna	JEMD	02/09/2003 11:55:14:42	205	4	
+m_inventarios	m_conteofisico	&Conteo Fisico	m_transaccion	JEMD	02/09/2003 11:55:14:436	206	2	
+m_inventarios	m_activarconteofsico	Activar Conteo FÝsico	m_conteofisico	JEMD	02/09/2003 11:55:14:436	207	3	
+m_inventarios	m_nuevo14	&Nuevo	m_conteofisico	JEMD	02/09/2003 11:55:14:436	208	3	
+m_inventarios	m_consultar33	Consultar	m_conteofisico	JEMD	02/09/2003 11:55:14:436	209	3	
+m_inventarios	m_modificar2	Modificar	m_conteofisico	JEMD	02/09/2003 11:55:14:436	210	3	
+m_inventarios	m_desactivarconteofsico	Desactivar Conteo FÝsico	m_conteofisico	JEMD	02/09/2003 11:55:14:436	211	3	
+m_inventarios	m_conteofisicoxbodegas	Conteo Fisico X Bodegas	m_transaccion	JEMD	02/09/2003 11:55:14:453	212	2	
+m_inventarios	m_activarconteo	&Activar Conteo	m_conteofisicoxbodegas	JEMD	02/09/2003 11:55:14:453	213	3	
+m_inventarios	m_nuevo_conteo	&Nuevo	m_conteofisicoxbodegas	JEMD	02/09/2003 11:55:14:453	214	3	
+m_inventarios	m_consultarconteo	Consultar	m_conteofisicoxbodegas	JEMD	02/09/2003 11:55:14:453	215	3	
+m_inventarios	m_modificarconteo	&Modificar/Generar Mov Inventarios	m_conteofisicoxbodegas	JEMD	02/09/2003 11:55:14:453	216	3	
+m_inventarios	m_desactivarconteo	&Desactivar Conteo	m_conteofisicoxbodegas	JEMD	02/09/2003 11:55:14:466	217	3	
+m_inventarios	m_ajustesinflacion	Ajustes In&flacion	m_transaccion	JEMD	02/09/2003 11:55:14:466	218	2	
+m_inventarios	m_ajustar	&Ajustar	m_ajustesinflacion	JEMD	02/09/2003 11:55:14:466	219	3	
+m_inventarios	m_traslado	T&raslado Bodega Local	m_transaccion	JEMD	02/09/2003 11:55:14:466	220	2	
+m_inventarios	m_crear1	Nuevo	m_traslado	JEMD	02/09/2003 11:55:14:466	221	3	
+m_inventarios	m_eliminar1	Consultar	m_traslado	JEMD	02/09/2003 11:55:14:466	222	3	
+m_inventarios	m_eliminar5	Anular	m_traslado	JEMD	02/09/2003 11:55:14:483	223	3	
+m_inventarios	m_transformaciones	Transformaciones	m_transaccion	JEMD	02/09/2003 11:55:14:483	224	2	
+m_inventarios	m_nuevo40	&Nuevo	m_transformaciones	JEMD	02/09/2003 11:55:14:483	225	3	
+m_inventarios	m_consultar43	&Consultar	m_transformaciones	JEMD	02/09/2003 11:55:14:483	226	3	
+m_inventarios	m_anular36	&Anular	m_transformaciones	JEMD	02/09/2003 11:55:14:5	227	3	
+m_inventarios	m_comprometido1	Com&prometido	m_transaccion	JEMD	02/09/2003 11:55:14:5	228	2	
+m_inventarios	m_nuevo15	Nuevo	m_comprometido1	JEMD	02/09/2003 11:55:14:5	229	3	
+m_inventarios	m_editar	Editar	m_comprometido1	JEMD	02/09/2003 11:55:14:5	230	3	
+m_inventarios	m_datosexternos	Datos Externos	m_transaccion	JEMD	02/09/2003 11:55:14:5	231	2	
+m_inventarios	m_importar	&Importar	m_datosexternos	JEMD	02/09/2003 11:55:14:5	232	3	
+m_inventarios	m_consultar18	&Consultar	m_datosexternos	JEMD	02/09/2003 11:55:14:516	233	3	
+m_inventarios	m_contabilizar	C&ontabilizar	m_datosexternos	JEMD	02/09/2003 11:55:14:516	234	3	
+m_inventarios	m_eliminar	&Eliminar	m_datosexternos	JEMD	02/09/2003 11:55:14:516	235	3	
+m_inventarios	m_iniciarpresupuestos	Iniciar Presupuestos	m_transaccion	JEMD	02/09/2003 11:55:14:516	236	2	
+m_inventarios	m_administracion	Administracion	m_transaccion	JEMD	02/09/2003 11:55:14:516	237	2	
+m_inventarios	m_cierremensual	Cierre Mensual	m_administracion	JEMD	02/09/2003 11:55:14:516	238	3	
+m_inventarios	m_listasdeprecios	Listas de Precios	m_transaccion	JEMD	02/09/2003 11:55:14:516	239	2	
+m_inventarios	m_nuevo20	Nuevo	m_listasdeprecios	JEMD	02/09/2003 11:55:14:53	240	3	
+m_inventarios	m_consultar22	Consultar	m_listasdeprecios	JEMD	02/09/2003 11:55:14:53	241	3	
+m_inventarios	m_modificar	Modificar	m_listasdeprecios	JEMD	02/09/2003 11:55:14:53	242	3	
+m_inventarios	m_aprobar	Aprobar	m_listasdeprecios	JEMD	02/09/2003 11:55:14:53	243	3	
+m_inventarios	m_anular22	Anu&lar	m_listasdeprecios	JEMD	02/09/2003 11:55:14:53	244	3	
+m_inventarios	m_listadepreciosclientes	Lista de Precios Clientes	m_transaccion	JEMD	02/09/2003 11:55:14:53	245	2	
+m_inventarios	m_nuevo26	&Nuevo	m_listadepreciosclientes	JEMD	02/09/2003 11:55:14:53	246	3	
+m_inventarios	m_consultar28	&Consultar	m_listadepreciosclientes	JEMD	02/09/2003 11:55:14:546	247	3	
+m_inventarios	m_modificar1	&Modificar	m_listadepreciosclientes	JEMD	02/09/2003 11:55:14:546	248	3	
+m_inventarios	m_aprobar1	&Aprobar	m_listadepreciosclientes	JEMD	02/09/2003 11:55:14:546	249	3	
+m_inventarios	m_anular21	Anu&lar	m_listadepreciosclientes	JEMD	02/09/2003 11:55:14:546	250	3	
+m_inventarios	m_periodosinventario	Periodos Inventario	m_transaccion	JEMD	02/09/2003 11:55:14:546	251	2	
+m_inventarios	m_registrar	Registrar	m_periodosinventario	JEMD	02/09/2003 11:55:14:546	252	3	
+m_inventarios	m_consultar16	Consultar	m_periodosinventario	JEMD	02/09/2003 11:55:14:563	253	3	
+m_inventarios	m_informes	Infor&mes	m_inventarios	JEMD	02/09/2003 11:55:14:563	254	1	
+m_inventarios	m_existencias	&Existencias	m_informes	JEMD	02/09/2003 11:55:14:563	255	2	
+m_inventarios	m_lineas1	&Lineas	m_existencias	JEMD	02/09/2003 11:55:14:563	256	3	
+m_inventarios	m_articulos	&Items	m_existencias	JEMD	02/09/2003 11:55:14:563	257	3	
+m_inventarios	m_lotes	&Lotes	m_existencias	JEMD	02/09/2003 11:55:14:563	258	3	
+m_inventarios	m_bodega	Bodega&s	m_existencias	JEMD	02/09/2003 11:55:14:576	259	3	
+m_inventarios	m_bodegafechahist	&Bodega Fecha Historica	m_existencias	JEMD	02/09/2003 11:55:14:576	260	3	
+m_inventarios	m_bodegasxcantidades	B&odegas X Unidades	m_existencias	JEMD	02/09/2003 11:55:14:576	261	3	
+m_inventarios	m_planillaconteofsico	&Planilla conteo FÝsico	m_existencias	JEMD	02/09/2003 11:55:14:576	262	3	
+m_inventarios	m_estadisticas	Estadisticas	m_informes	JEMD	02/09/2003 11:55:14:576	263	2	
+m_inventarios	m_mesacumulado	Mes Acumulado por Articulo	m_estadisticas	JEMD	02/09/2003 11:55:14:593	264	3	
+m_inventarios	m_mesacumuladobodega	Detallado Mes Acumulado por Articulo	m_estadisticas	JEMD	02/09/2003 11:55:14:593	265	3	
+m_inventarios	m_invvalorizadoart	Inventario &Valorizado	m_informes	JEMD	02/09/2003 11:55:14:593	266	2	
+m_inventarios	m_valarticul	Items	m_invvalorizadoart	JEMD	02/09/2003 11:55:14:593	267	3	
+m_inventarios	m_valbodega	Bodega	m_invvalorizadoart	JEMD	02/09/2003 11:55:14:593	268	3	
+m_inventarios	m_mensualizado	Mensualizado	m_invvalorizadoart	JEMD	02/09/2003 11:55:14:593	269	3	
+m_inventarios	m_estructuraarticulos	Estructura &Articulos	m_informes	JEMD	02/09/2003 11:55:14:593	270	2	
+m_inventarios	m_eskardex	E/&S Kardex	m_informes	JEMD	02/09/2003 11:55:14:61	271	2	
+m_inventarios	m_kardexxunidades	Kardex X Unidades	m_informes	JEMD	02/09/2003 11:55:14:61	272	2	
+m_inventarios	m_maximosminimos	&Maximos Minimos	m_informes	JEMD	02/09/2003 11:55:14:61	273	2	
+m_inventarios	m_articulossinmovimiento	Ar&ticulos sin Movimiento	m_informes	JEMD	02/09/2003 11:55:14:61	274	2	
+m_inventarios	m_informestotales	Informes Totales	m_informes	JEMD	02/09/2003 11:55:14:61	275	2	
+m_inventarios	m_generales	Generales	m_informestotales	JEMD	02/09/2003 11:55:14:61	276	3	
+m_inventarios	m_entradasporcompra	Entradas por Compra	m_informestotales	JEMD	02/09/2003 11:55:14:626	277	3	
+m_inventarios	m_entradaspordevolucion	Entradas Por Devolucion	m_informestotales	JEMD	02/09/2003 11:55:14:626	278	3	
+m_inventarios	m_total_ingresosabodega	Ingresos a Bodega	m_informestotales	JEMD	02/09/2003 11:55:14:626	279	3	
+m_inventarios	m_totalremisiones	Traslados Bodega local	m_informestotales	JEMD	02/09/2003 11:55:14:626	280	3	
+m_inventarios	m_total_transformaciones	Transformaciones	m_informestotales	JEMD	02/09/2003 11:55:14:626	281	3	
+m_inventarios	m_totalremisionesexternas	Remisiones Externas (Ventas)	m_informestotales	JEMD	02/09/2003 11:55:14:626	282	3	
+m_inventarios	m_totaldevolucionesproveedor	Salida Devoluciones Proveedor	m_informestotales	JEMD	02/09/2003 11:55:14:64	283	3	
+m_inventarios	m_totalprecargues	Precargues	m_informestotales	JEMD	02/09/2003 11:55:14:64	284	3	
+m_inventarios	m_precargueshuevo	Precargues Huevo	m_informestotales	JEMD	02/09/2003 11:55:14:64	285	3	
+m_inventarios	m_precarguesterceros	Precargues Terceros	m_informestotales	JEMD	02/09/2003 11:55:14:64	286	3	
+m_inventarios	m_rotacion	&Rotacion	m_informes	JEMD	02/09/2003 11:55:14:64	287	2	
+m_inventarios	m_trasladosbodegas	Traslados Bodegas	m_informes	JEMD	02/09/2003 11:55:14:64	288	2	
+m_inventarios	m_articuloresumido	Articulo Resumido	m_informes	JEMD	02/09/2003 11:55:14:656	289	2	
+m_inventarios	m_consulta	Consulta Detallada Articulo	m_informes	JEMD	02/09/2003 11:55:14:656	290	2	
+m_inventarios	m_controlprecios	Control Precios	m_informes	JEMD	02/09/2003 11:55:14:656	291	2	
+m_inventarios	m_kardexresumido	Kardex Resumido	m_informes	JEMD	02/09/2003 11:55:14:656	292	2	
+m_inventarios	m_kardexresumidovalorizado	Kardex Resumido Valorizado	m_informes	JEMD	02/09/2003 11:55:14:656	293	2	
+m_inventarios	m_kardexresumidovalorizadoxlnea	Kardex Resumido Valorizado X LÝnea	m_informes	JEMD	02/09/2003 11:55:14:656	294	2	
+m_inventarios	m_saldoscualquierfecha	Saldos Cualquier Fecha	m_informes	JEMD	02/09/2003 11:55:14:67	295	2	
+m_inventarios	m_resumenentradasxlinea	Resumen Entradas x Linea	m_informes	JEMD	02/09/2003 11:55:14:67	296	2	
+m_inventarios	m_resumensaliasxlinea	Resumen Salidas X linea	m_informes	JEMD	02/09/2003 11:55:14:67	297	2	
+m_inventarios	m_resumendespachosxdestinoxitem	Resumen Consumos x Destino x Item	m_informes	JEMD	02/09/2003 11:55:14:67	298	2	
+m_inventarios	m_resumenconsumosxdestinoxlnea	Resumen Consumos X Destino X LÝnea	m_informes	JEMD	02/09/2003 11:55:14:67	299	2	
+m_inventarios	m_agenda	Agenda	m_inventarios	JEMD	02/09/2003 11:55:14:686	300	1	
+m_inventarios	m_definir	&Definir	m_agenda	JEMD	02/09/2003 11:55:14:686	301	2	
+m_inventarios	m_consultar7	&Consultar	m_agenda	JEMD	02/09/2003 11:55:14:686	302	2	
+m_inventarios	m_inactivar	&Inactivar	m_agenda	JEMD	02/09/2003 11:55:14:686	303	2	
+m_inventarios	m_seguridad	Accesorios	m_inventarios	JEMD	02/09/2003 11:55:14:686	304	1	
+m_inventarios	m_cambiodeclave	&Cambio de  Clave	m_seguridad	JEMD	02/09/2003 11:55:14:686	305	2	
+m_inventarios	m_opcionesmenu	&Opciones Menu	m_seguridad	JEMD	02/09/2003 11:55:14:686	306	2	
+m_inventarios	m_refrescarpermisos	Refrescar Permisos	m_seguridad	JEMD	02/09/2003 11:55:14:703	307	2	
+m_inventarios	m_actualizare-mail	Actualizar e-mail	m_seguridad	JEMD	02/09/2003 11:55:14:703	308	2	
+m_inventarios	m_generaropciones	Generar Opciones	m_seguridad	JEMD	02/09/2003 11:55:14:703	309	2	
+m_inventarios	m_ventana	&Ventana	m_inventarios	JEMD	02/09/2003 11:55:14:703	310	1	
+m_inventarios	m_cascada	Cascada	m_ventana	JEMD	02/09/2003 11:55:14:703	311	2	
+m_inventarios	m_total	Total	m_ventana	JEMD	02/09/2003 11:55:14:703	312	2	
+m_inventarios	m_horizontal	Horizontal	m_ventana	JEMD	02/09/2003 11:55:14:703	313	2	
+m_inventarios	m_vertical	Vertical	m_ventana	JEMD	02/09/2003 11:55:14:716	314	2	
+m_inventarios	m_iconos	Iconos	m_ventana	JEMD	02/09/2003 11:55:14:716	315	2	
+m_inventarios	m_ayuda	Ayuda	m_inventarios	JEMD	02/09/2003 11:55:14:716	316	1	
+m_inventarios	m_resumenentradasxitem	Resumen Entradas X Item	m_informes	GLAC	02/01/2003 00:00:00			
+m_inventarios	m_devoluci¾ndeconsignaciones	Devolucion de Consignaciones	m_salidas	GLAC	10/02/2004 00:00:00			
+m_inventarios	m_nuevo45	Nuevo	m_devoluci¾ndeconsignaciones	GLAC	10/02/2004 00:00:00			
+m_inventarios	m_consultar48	Consultar	m_devoluci¾ndeconsignaciones	GLAC	10/02/2004 00:00:00			
+m_inventarios	m_anular41	Anular	m_devoluci¾ndeconsignaciones	GLAC	10/02/2004 00:00:00			
+m_inventarios	m_totaltrasladosbodegaexterna	Traslados Bodega Externa	m_informestotales	GLAC	19/03/2004 00:00:00			
+m_inventarios	m_salidasporobsequio	Salidas por Obsequio	m_informestotales	GLAC	25/03/2004 00:00:00			

@@ -1,0 +1,1 @@
+alter table dba.usuarios_acceso modify email not null;

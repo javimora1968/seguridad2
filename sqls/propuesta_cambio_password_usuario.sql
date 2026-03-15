@@ -1,0 +1,1 @@
+alter table dba.usuarios modify password_usuario char(16);

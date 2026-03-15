@@ -1,0 +1,14 @@
+grant all on dba.in_kardex to digitadores;
+grant all on dba.mp_items_entrada to digitadores;
+grant all on dba.mp_mov_entradas to digitadores;
+grant all on dba.mp_items_salidas to digitadores;
+grant all on dba.mp_mov_salidas to digitadores;
+grant all on dba.mp_existencias to digitadores;
+grant all on dba.mp_saldo_mes_bodega to digitadores;
+grant all on dba.mp_saldo_ini_ano to digitadores;
+grant all on dba.in_resumen_movimientos_recibe to digitadores;
+grant all on dba.in_resumen_movimientos_item to digitadores;
+grant all on dba.in_resumen_movimientos to digitadores;
+grant all on dba.po_prspsto_centro_mes to digitadores;
+grant all on dba.po_item_mes_centro to digitadores;
+grant all on dba.po_prspsto_vehiculo_item to digitadores;

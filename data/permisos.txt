@@ -1,0 +1,629 @@
+m_inventarios	GEMG	m_aclasificacion	GLAC	25/07/2003 11:08:10:33				
+m_inventarios	GEMG	m_archivo	JEMD	27/02/2003 15:55:20:62				
+m_inventarios	GEMG	m_articuloresumido	JEMD	27/02/2003 15:55:21:12				
+m_inventarios	GEMG	m_articulos	JEMD	27/02/2003 15:55:21:17				
+m_inventarios	GEMG	m_articulossinmovimiento	JEMD	27/02/2003 15:55:21:28				
+m_inventarios	GEMG	m_ayuda	JEMD	27/02/2003 15:55:21:34				
+m_inventarios	GEMG	m_bodega	JEMD	27/02/2003 15:55:21:45				
+m_inventarios	GEMG	m_bodegafechahist	JEMD	27/02/2003 15:55:21:5				
+m_inventarios	GEMG	m_bodegasxcantidades	JEMD	27/02/2003 15:55:21:61				
+m_inventarios	GEMG	m_cambiodeclave	JEMD	27/02/2003 15:55:21:67				
+m_inventarios	GEMG	m_cascada	JEMD	27/02/2003 15:55:21:78				
+m_inventarios	GEMG	m_consulta	JEMD	27/02/2003 15:55:21:83				
+m_inventarios	GEMG	m_consultar43	GLAC	03/04/2003 14:38:21:12				
+m_inventarios	GEMG	m_consultar44	GLAC	14/05/2003 08:41:52:41				
+m_inventarios	GEMG	m_consultar45	GLAC	23/07/2003 11:54:22:04				
+m_inventarios	GEMG	m_consultar46	GLAC	25/07/2003 11:07:04:26				
+m_inventarios	GEMG	m_consultar47	GLAC	25/07/2003 11:08:23:35				
+m_inventarios	GEMG	m_controlprecios	JEMD	27/02/2003 15:55:22:05				
+m_inventarios	GEMG	m_entradasporcompra	JEMD	27/02/2003 15:55:22:16				
+m_inventarios	GEMG	m_entradaspordevolucion	GLAC	25/07/2003 11:07:55:23				
+m_inventarios	GEMG	m_eskardex	JEMD	27/02/2003 15:55:22:27				
+m_inventarios	GEMG	m_estadisticas	JEMD	27/02/2003 15:55:22:33				
+m_inventarios	GEMG	m_estructuraarticulos	JEMD	27/02/2003 15:55:22:49				
+m_inventarios	GEMG	m_existencias	JEMD	27/02/2003 15:55:22:55				
+m_inventarios	GEMG	m_generales	JEMD	27/02/2003 15:55:22:71				
+m_inventarios	GEMG	m_horizontal	JEMD	27/02/2003 15:55:22:82				
+m_inventarios	GEMG	m_iconos	JEMD	27/02/2003 15:55:22:88				
+m_inventarios	GEMG	m_informes	JEMD	27/02/2003 15:55:22:99				
+m_inventarios	GEMG	m_informestotales	JEMD	27/02/2003 15:55:23:04				
+m_inventarios	GEMG	m_ingresosabodega	GLAC	23/07/2003 11:54:04:46				
+m_inventarios	GEMG	m_invvalorizadoart	JEMD	27/02/2003 15:55:23:1				
+m_inventarios	GEMG	m_kardexresumido	JEMD	27/02/2003 15:55:23:21				
+m_inventarios	GEMG	m_kardexresumidovalorizado	JEMD	27/02/2003 15:55:23:32				
+m_inventarios	GEMG	m_kardexresumidovalorizadoxlnea	JEMD	27/02/2003 15:55:23:37				
+m_inventarios	GEMG	m_kardexxunidades	JEMD	27/02/2003 15:55:23:48				
+m_inventarios	GEMG	m_lineas1	JEMD	27/02/2003 15:55:23:65				
+m_inventarios	GEMG	m_lotes	JEMD	27/02/2003 15:55:23:81				
+m_inventarios	GEMG	m_maximosminimos	JEMD	27/02/2003 15:55:23:97				
+m_inventarios	GEMG	m_mensualizado	JEMD	27/02/2003 15:55:24:14				
+m_inventarios	GEMG	m_mesacumulado	JEMD	27/02/2003 15:55:24:25				
+m_inventarios	GEMG	m_mesacumuladobodega	JEMD	27/02/2003 15:55:24:36				
+m_inventarios	GEMG	m_opcionesmenu	JEMD	27/02/2003 15:55:24:41				
+m_inventarios	GEMG	m_planillaconteofsico	JEMD	27/02/2003 15:55:24:52				
+m_inventarios	GEMG	m_porclasificacion	GLAC	25/07/2003 11:06:46:68				
+m_inventarios	GEMG	m_precargueshuevo	GLAC	03/03/2003 10:43:21:08				
+m_inventarios	GEMG	m_refrescarpermisos	GLAC	22/07/2003 13:26:58:57				
+m_inventarios	GEMG	m_resumenconsumosxdestinoxlnea	JEMD	27/02/2003 15:55:24:58				
+m_inventarios	GEMG	m_resumendespachosxdestinoxitem	JEMD	27/02/2003 15:55:24:69				
+m_inventarios	GEMG	m_resumenentradasxlinea	JEMD	27/02/2003 15:55:24:8				
+m_inventarios	GEMG	m_resumensaliasxlinea	JEMD	27/02/2003 15:55:24:85				
+m_inventarios	GEMG	m_rotacion	JEMD	27/02/2003 15:55:24:96				
+m_inventarios	GEMG	m_saldoscualquierfecha	JEMD	27/02/2003 15:55:25:07				
+m_inventarios	GEMG	m_seguridad	JEMD	27/02/2003 15:55:25:18				
+m_inventarios	GEMG	m_total	JEMD	27/02/2003 15:55:25:24				
+m_inventarios	GEMG	m_total_ingresosabodega	GLAC	23/07/2003 13:46:00:81				
+m_inventarios	GEMG	m_total_transformaciones	GLAC	25/07/2003 11:11:55:14				
+m_inventarios	GEMG	m_totaldevolucionesproveedor	JEMD	27/02/2003 15:55:25:35				
+m_inventarios	GEMG	m_totalprecargues	JEMD	27/02/2003 15:55:25:73				
+m_inventarios	GEMG	m_totalremisiones	JEMD	27/02/2003 15:55:26:06				
+m_inventarios	GEMG	m_totalremisionesexternas	JEMD	27/02/2003 15:55:26:12				
+m_inventarios	GEMG	m_transaccion	JEMD	27/02/2003 15:55:26:23				
+m_inventarios	GEMG	m_transformaciones	GLAC	03/04/2003 14:37:35:31				
+m_inventarios	GEMG	m_trasladosbodegaexterna	GLAC	14/05/2003 08:40:14:04				
+m_inventarios	GEMG	m_trasladosbodegas	JEMD	27/02/2003 15:55:26:39				
+m_inventarios	GEMG	m_valarticul	JEMD	27/02/2003 15:55:26:5				
+m_inventarios	GEMG	m_valbodega	JEMD	27/02/2003 15:55:26:61				
+m_inventarios	GEMG	m_ventana	JEMD	27/02/2003 15:55:26:67				
+m_inventarios	GEMG	m_vertical	JEMD	27/02/2003 15:55:26:78				
+m_inventarios	GLAC	m_-	MLPG	20/02/2001 19:31:19:2	N	N	N	N
+m_inventarios	GLAC	m_aclasificacion	GLAC	25/07/2003 11:08:10:44				
+m_inventarios	GLAC	m_administracion	MLPG	20/02/2001 19:31:19:96	N	N	N	N
+m_inventarios	GLAC	m_agenda	MLPG	20/02/2001 19:31:20:13	N	N	N	N
+m_inventarios	GLAC	m_ajustar	MLPG	20/02/2001 19:31:20:4	N	N	N	N
+m_inventarios	GLAC	m_ajusteinvfis	MLPG	20/02/2001 19:31:20:57	N	N	N	N
+m_inventarios	GLAC	m_ajustesinflacion	MLPG	20/02/2001 19:31:20:79	N	N	N	N
+m_inventarios	GLAC	m_ajustesinvfis	MLPG	20/02/2001 19:31:21:01	N	N	N	N
+m_inventarios	GLAC	m_anular	MLPG	20/02/2001 19:31:21:23	N	N	N	N
+m_inventarios	GLAC	m_anular1	MLPG	20/02/2001 19:31:21:39	N	N	N	N
+m_inventarios	GLAC	m_anular10	MLPG	20/02/2001 19:31:21:61	N	N	N	N
+m_inventarios	GLAC	m_anular11	MLPG	20/02/2001 19:31:21:83	N	N	N	N
+m_inventarios	GLAC	m_anular12	MLPG	20/02/2001 19:31:22:05	N	N	N	N
+m_inventarios	GLAC	m_anular13	MLPG	20/02/2001 19:31:22:27	N	N	N	N
+m_inventarios	GLAC	m_anular14	MLPG	20/02/2001 19:31:22:49	N	N	N	N
+m_inventarios	GLAC	m_anular15	MLPG	20/02/2001 19:31:22:66	N	N	N	N
+m_inventarios	GLAC	m_anular16	MLPG	20/02/2001 19:31:22:88	N	N	N	N
+m_inventarios	GLAC	m_anular17	MLPG	20/02/2001 19:31:23:1	N	N	N	N
+m_inventarios	GLAC	m_anular2	MLPG	20/02/2001 19:31:23:32	N	N	N	N
+m_inventarios	GLAC	m_anular3	MLPG	20/02/2001 19:31:23:53	N	N	N	N
+m_inventarios	GLAC	m_anular35	GLAC	26/02/2003 15:43:33:73				
+m_inventarios	GLAC	m_anular37	GLAC	14/05/2003 08:41:41:1				
+m_inventarios	GLAC	m_anular4	MLPG	20/02/2001 19:31:23:75	N	N	N	N
+m_inventarios	GLAC	m_anular5	MLPG	20/02/2001 19:31:23:97	N	N	N	N
+m_inventarios	GLAC	m_anular6	MLPG	20/02/2001 19:31:24:19	N	N	N	N
+m_inventarios	GLAC	m_anular7	MLPG	20/02/2001 19:31:24:41	N	N	N	N
+m_inventarios	GLAC	m_anular8	MLPG	20/02/2001 19:31:24:63	N	N	N	N
+m_inventarios	GLAC	m_anular9	MLPG	20/02/2001 19:31:24:85	N	N	N	N
+m_inventarios	GLAC	m_aprobar	MLPG	20/02/2001 19:31:25:07	N	N	N	N
+m_inventarios	GLAC	m_archivo	MLPG	20/02/2001 19:31:25:29	N	N	N	N
+m_inventarios	GLAC	m_articulo	MLPG	20/02/2001 19:31:25:51	N	N	N	N
+m_inventarios	GLAC	m_articuloresumido	MLPG	20/02/2001 19:31:25:79	N	N	N	N
+m_inventarios	GLAC	m_articulos	MLPG	20/02/2001 19:31:25:95	N	N	N	N
+m_inventarios	GLAC	m_articulossinmovimiento	MLPG	20/02/2001 19:31:26:23	N	N	N	N
+m_inventarios	GLAC	m_autorizar	MLPG	20/02/2001 19:31:26:45	N	N	N	N
+m_inventarios	GLAC	m_ayuda	MLPG	20/02/2001 19:31:26:67	N	N	N	N
+m_inventarios	GLAC	m_baja	MLPG	20/02/2001 19:31:26:89	N	N	N	N
+m_inventarios	GLAC	m_basicos	MLPG	20/02/2001 19:31:27:16	N	N	N	N
+m_inventarios	GLAC	m_bodega	MLPG	20/02/2001 19:31:27:38	N	N	N	N
+m_inventarios	GLAC	m_bodegafechahist	MLPG	20/02/2001 19:31:27:54	N	N	N	N
+m_inventarios	GLAC	m_bodegas	MLPG	20/02/2001 19:31:27:82	N	N	N	N
+m_inventarios	GLAC	m_bodegas1	MLPG	20/02/2001 19:31:27:98	N	N	N	N
+m_inventarios	GLAC	m_cambiodeclave	MLPG	20/02/2001 19:31:28:2	N	N	N	N
+m_inventarios	GLAC	m_caracteristicas	MLPG	20/02/2001 19:31:28:42	N	N	N	N
+m_inventarios	GLAC	m_caracteristicaspordivision	MLPG	20/02/2001 19:31:28:64	N	N	N	N
+m_inventarios	GLAC	m_caracteristicasporitem	MLPG	20/02/2001 19:31:28:92	N	N	N	N
+m_inventarios	GLAC	m_cascada	MLPG	20/02/2001 19:31:29:14	N	N	N	N
+m_inventarios	GLAC	m_centrosdecosto	MLPG	20/02/2001 19:31:29:36	N	N	N	N
+m_inventarios	GLAC	m_cierremensual	MLPG	20/02/2001 19:31:29:58	N	N	N	N
+m_inventarios	GLAC	m_clientes	MLPG	20/02/2001 19:31:29:8	N	N	N	N
+m_inventarios	GLAC	m_compra	MLPG	20/02/2001 19:31:30:02	N	N	N	N
+m_inventarios	GLAC	m_comprometido	MLPG	20/02/2001 19:31:30:24	N	N	N	N
+m_inventarios	GLAC	m_comprometido1	MLPG	20/02/2001 19:31:30:4	N	N	N	N
+m_inventarios	GLAC	m_configuracioncontable	MLPG	20/02/2001 19:31:30:57	N	N	N	N
+m_inventarios	GLAC	m_consignacion	MLPG	20/02/2001 19:31:30:79	N	N	N	N
+m_inventarios	GLAC	m_consulta	MLPG	20/02/2001 19:31:31	N	N	N	N
+m_inventarios	GLAC	m_consultar	MLPG	20/02/2001 19:31:31:22	N	N	N	N
+m_inventarios	GLAC	m_consultar1	MLPG	20/02/2001 19:31:31:39	N	N	N	N
+m_inventarios	GLAC	m_consultar10	MLPG	20/02/2001 19:31:31:66	N	N	N	N
+m_inventarios	GLAC	m_consultar11	MLPG	20/02/2001 19:31:31:94	N	N	N	N
+m_inventarios	GLAC	m_consultar12	MLPG	20/02/2001 19:31:32:1	N	N	N	N
+m_inventarios	GLAC	m_consultar13	MLPG	20/02/2001 19:31:32:27	N	N	N	N
+m_inventarios	GLAC	m_consultar14	MLPG	20/02/2001 19:31:32:49	N	N	N	N
+m_inventarios	GLAC	m_consultar15	MLPG	20/02/2001 19:31:32:71	N	N	N	N
+m_inventarios	GLAC	m_consultar16	MLPG	20/02/2001 19:31:32:87	N	N	N	N
+m_inventarios	GLAC	m_consultar17	MLPG	20/02/2001 19:31:33:04	N	N	N	N
+m_inventarios	GLAC	m_consultar18	MLPG	20/02/2001 19:31:33:26	N	N	N	N
+m_inventarios	GLAC	m_consultar19	MLPG	20/02/2001 19:31:33:48	N	N	N	N
+m_inventarios	GLAC	m_consultar2	MLPG	20/02/2001 19:31:33:7	N	N	N	N
+m_inventarios	GLAC	m_consultar20	MLPG	20/02/2001 19:31:33:92	N	N	N	N
+m_inventarios	GLAC	m_consultar21	MLPG	20/02/2001 19:31:34:19	N	N	N	N
+m_inventarios	GLAC	m_consultar22	MLPG	20/02/2001 19:31:34:36	N	N	N	N
+m_inventarios	GLAC	m_consultar23	MLPG	20/02/2001 19:31:34:57	N	N	N	N
+m_inventarios	GLAC	m_consultar24	MLPG	20/02/2001 19:31:34:79	N	N	N	N
+m_inventarios	GLAC	m_consultar3	MLPG	20/02/2001 19:31:35:01	N	N	N	N
+m_inventarios	GLAC	m_consultar4	MLPG	20/02/2001 19:31:35:29	N	N	N	N
+m_inventarios	GLAC	m_consultar42	GLAC	26/02/2003 15:43:12:31				
+m_inventarios	GLAC	m_consultar43	GLAC	03/04/2003 14:38:21:23				
+m_inventarios	GLAC	m_consultar44	GLAC	14/05/2003 08:41:52:52				
+m_inventarios	GLAC	m_consultar45	GLAC	23/07/2003 11:54:22:15				
+m_inventarios	GLAC	m_consultar46	GLAC	25/07/2003 11:07:04:37				
+m_inventarios	GLAC	m_consultar47	GLAC	25/07/2003 11:08:23:51				
+m_inventarios	GLAC	m_consultar5	MLPG	20/02/2001 19:31:35:51	N	N	N	N
+m_inventarios	GLAC	m_consultar6	MLPG	20/02/2001 19:31:35:73	N	N	N	N
+m_inventarios	GLAC	m_consultar7	MLPG	20/02/2001 19:31:35:89	N	N	N	N
+m_inventarios	GLAC	m_consultar8	MLPG	20/02/2001 19:31:36:17	N	N	N	N
+m_inventarios	GLAC	m_consultar9	MLPG	20/02/2001 19:31:36:39	N	N	N	N
+m_inventarios	GLAC	m_consumo	MLPG	20/02/2001 19:31:36:61	N	N	N	N
+m_inventarios	GLAC	m_contabilizar	MLPG	20/02/2001 19:31:36:83	N	N	N	N
+m_inventarios	GLAC	m_conteo2	MLPG	20/02/2001 19:31:37:05	N	N	N	N
+m_inventarios	GLAC	m_conteofisico	MLPG	20/02/2001 19:31:37:27	N	N	N	N
+m_inventarios	GLAC	m_controlprecios	MLPG	20/02/2001 19:31:37:49	N	N	N	N
+m_inventarios	GLAC	m_crear1	MLPG	20/02/2001 19:31:37:71	N	N	N	N
+m_inventarios	GLAC	m_cuentacreditoconsumos	MLPG	20/02/2001 19:31:37:93	N	N	N	N
+m_inventarios	GLAC	m_cuentadebitoconsumos	MLPG	20/02/2001 19:31:38:09	N	N	N	N
+m_inventarios	GLAC	m_datosexternos	MLPG	20/02/2001 19:31:38:31	N	N	N	N
+m_inventarios	GLAC	m_definir	MLPG	20/02/2001 19:31:38:53	N	N	N	N
+m_inventarios	GLAC	m_devolucioncliente	MLPG	20/02/2001 19:31:38:75	N	N	N	N
+m_inventarios	GLAC	m_devolucionconsignacion	MLPG	20/02/2001 19:31:39:02	N	N	N	N
+m_inventarios	GLAC	m_devolucionconsumo	MLPG	20/02/2001 19:31:39:24	N	N	N	N
+m_inventarios	GLAC	m_devolucionproduccin	MLPG	20/02/2001 19:31:39:41	N	N	N	N
+m_inventarios	GLAC	m_devolucionproveedores	MLPG	20/02/2001 19:31:39:63	N	N	N	N
+m_inventarios	GLAC	m_divisiones	MLPG	20/02/2001 19:31:39:85	N	N	N	N
+m_inventarios	GLAC	m_divisiones1	MLPG	20/02/2001 19:31:40:01	N	N	N	N
+m_inventarios	GLAC	m_editar	MLPG	20/02/2001 19:31:40:29	N	N	N	N
+m_inventarios	GLAC	m_eliminar	MLPG	20/02/2001 19:31:40:45	N	N	N	N
+m_inventarios	GLAC	m_eliminar1	MLPG	20/02/2001 19:31:40:73	N	N	N	N
+m_inventarios	GLAC	m_eliminar2	MLPG	20/02/2001 19:31:40:89	N	N	N	N
+m_inventarios	GLAC	m_eliminar3	MLPG	20/02/2001 19:31:41:11	N	N	N	N
+m_inventarios	GLAC	m_eliminar4	MLPG	20/02/2001 19:31:41:61	N	N	N	N
+m_inventarios	GLAC	m_eliminar5	MLPG	20/02/2001 19:31:42:37	N	N	N	N
+m_inventarios	GLAC	m_entradas	MLPG	20/02/2001 19:31:42:59	N	N	N	N
+m_inventarios	GLAC	m_entradaspordevolucion	GLAC	25/07/2003 11:07:55:34				
+m_inventarios	GLAC	m_equivalencias1	MLPG	20/02/2001 19:31:42:81	N	N	N	N
+m_inventarios	GLAC	m_eskardex	MLPG	20/02/2001 19:31:43:03	N	N	N	N
+m_inventarios	GLAC	m_especiales	MLPG	20/02/2001 19:31:43:25	N	N	N	N
+m_inventarios	GLAC	m_estadisticas	MLPG	20/02/2001 19:31:43:53	N	N	N	N
+m_inventarios	GLAC	m_estructuraarticulos	MLPG	20/02/2001 19:31:43:75	N	N	N	N
+m_inventarios	GLAC	m_existencias	MLPG	20/02/2001 19:31:43:97	N	N	N	N
+m_inventarios	GLAC	m_factoresconversion	MLPG	20/02/2001 19:31:44:19	N	N	N	N
+m_inventarios	GLAC	m_generales	GLAC	11/07/2002 15:21:35:3	N	N	N	N
+m_inventarios	GLAC	m_generaropciones	MLPG	20/02/2001 19:31:44:41	N	N	N	N
+m_inventarios	GLAC	m_grupos	MLPG	20/02/2001 19:31:44:57	N	N	N	N
+m_inventarios	GLAC	m_horizontal	MLPG	20/02/2001 19:31:44:79	N	N	N	N
+m_inventarios	GLAC	m_iconos	MLPG	20/02/2001 19:31:45:01	N	N	N	N
+m_inventarios	GLAC	m_importar	MLPG	20/02/2001 19:31:45:23	N	N	N	N
+m_inventarios	GLAC	m_inactivar	MLPG	20/02/2001 19:31:45:45	N	N	N	N
+m_inventarios	GLAC	m_informes	MLPG	20/02/2001 19:31:45:67	N	N	N	N
+m_inventarios	GLAC	m_informestotales	GLAC	12/07/2002 00:00:00	N	N	N	N
+m_inventarios	GLAC	m_ingresosabodega	GLAC	23/07/2003 11:54:04:63				
+m_inventarios	GLAC	m_iniciarpresupuestos	MLPG	20/02/2001 19:31:45:83	N	N	N	N
+m_inventarios	GLAC	m_invvalorizadoart	MLPG	20/02/2001 19:31:46:05	N	N	N	N
+m_inventarios	GLAC	m_kardexresumido	MLPG	20/02/2001 19:31:46:27	N	N	N	N
+m_inventarios	GLAC	m_kardexresumidovalorizado	MLPG	20/02/2001 19:31:46:49	N	N	N	N
+m_inventarios	GLAC	m_kardexresumidovalorizadoxlnea	MLPG	20/02/2001 19:31:46:71	N	N	N	N
+m_inventarios	GLAC	m_lineas	MLPG	20/02/2001 19:31:46:93	N	N	N	N
+m_inventarios	GLAC	m_lineas1	MLPG	20/02/2001 19:31:47:15	N	N	N	N
+m_inventarios	GLAC	m_listasdeprecios	MLPG	20/02/2001 19:31:47:37	N	N	N	N
+m_inventarios	GLAC	m_lotes	MLPG	20/02/2001 19:31:47:59	N	N	N	N
+m_inventarios	GLAC	m_maximosminimos	MLPG	20/02/2001 19:31:47:81	N	N	N	N
+m_inventarios	GLAC	m_mensualizado	MLPG	20/02/2001 19:31:48:09	N	N	N	N
+m_inventarios	GLAC	m_mesacumulado	MLPG	20/02/2001 19:31:48:31	N	N	N	N
+m_inventarios	GLAC	m_mesacumuladobodega	MLPG	20/02/2001 19:31:48:53	N	N	N	N
+m_inventarios	GLAC	m_modificar	MLPG	20/02/2001 19:31:48:75	N	N	N	N
+m_inventarios	GLAC	m_n	MLPG	20/02/2001 19:31:48:97	N	N	N	N
+m_inventarios	GLAC	m_nuevo	MLPG	20/02/2001 19:31:49:19	N	N	N	N
+m_inventarios	GLAC	m_nuevo1	MLPG	20/02/2001 19:31:49:4	N	N	N	N
+m_inventarios	GLAC	m_nuevo10	MLPG	20/02/2001 19:31:49:57	N	N	N	N
+m_inventarios	GLAC	m_nuevo11	MLPG	20/02/2001 19:31:49:79	N	N	N	N
+m_inventarios	GLAC	m_nuevo12	MLPG	20/02/2001 19:31:50:01	N	N	N	N
+m_inventarios	GLAC	m_nuevo13	MLPG	20/02/2001 19:31:50:23	N	N	N	N
+m_inventarios	GLAC	m_nuevo14	MLPG	20/02/2001 19:31:50:39	N	N	N	N
+m_inventarios	GLAC	m_nuevo15	MLPG	20/02/2001 19:31:50:61	N	N	N	N
+m_inventarios	GLAC	m_nuevo16	MLPG	20/02/2001 19:31:50:83	N	N	N	N
+m_inventarios	GLAC	m_nuevo17	MLPG	20/02/2001 19:31:51	N	N	N	N
+m_inventarios	GLAC	m_nuevo18	MLPG	20/02/2001 19:31:51:27	N	N	N	N
+m_inventarios	GLAC	m_nuevo19	MLPG	20/02/2001 19:31:51:49	N	N	N	N
+m_inventarios	GLAC	m_nuevo2	MLPG	20/02/2001 19:31:51:66	N	N	N	N
+m_inventarios	GLAC	m_nuevo20	MLPG	20/02/2001 19:31:51:93	N	N	N	N
+m_inventarios	GLAC	m_nuevo21	MLPG	20/02/2001 19:31:52:1	N	N	N	N
+m_inventarios	GLAC	m_nuevo22	MLPG	20/02/2001 19:31:52:32	N	N	N	N
+m_inventarios	GLAC	m_nuevo3	MLPG	20/02/2001 19:31:52:59	N	N	N	N
+m_inventarios	GLAC	m_nuevo39	GLAC	26/02/2003 15:42:51:66				
+m_inventarios	GLAC	m_nuevo4	MLPG	20/02/2001 19:31:52:81	N	N	N	N
+m_inventarios	GLAC	m_nuevo41	GLAC	14/05/2003 08:41:24:4				
+m_inventarios	GLAC	m_nuevo5	MLPG	20/02/2001 19:31:52:97	N	N	N	N
+m_inventarios	GLAC	m_nuevo6	MLPG	20/02/2001 19:31:53:19	N	N	N	N
+m_inventarios	GLAC	m_nuevo7	MLPG	20/02/2001 19:31:53:41	N	N	N	N
+m_inventarios	GLAC	m_nuevo8	MLPG	20/02/2001 19:31:53:63	N	N	N	N
+m_inventarios	GLAC	m_nuevo9	MLPG	20/02/2001 19:31:53:8	N	N	N	N
+m_inventarios	GLAC	m_obsequio	MLPG	20/02/2001 19:31:54:02	N	N	N	N
+m_inventarios	GLAC	m_obsequiosal	MLPG	20/02/2001 19:31:54:24	N	N	N	N
+m_inventarios	GLAC	m_opcionesmenu	MLPG	20/02/2001 19:31:54:51	N	N	N	N
+m_inventarios	GLAC	m_perfilcontabledivisincentro	MLPG	20/02/2001 19:31:54:73	N	N	N	N
+m_inventarios	GLAC	m_perfilcontabledivisionbodega	MLPG	20/02/2001 19:31:54:95	N	N	N	N
+m_inventarios	GLAC	m_perfiltiposdocumentosporbodega	MLPG	20/02/2001 19:31:55:23	N	N	N	N
+m_inventarios	GLAC	m_poraprovechamientos	MLPG	20/02/2001 19:31:55:39	N	N	N	N
+m_inventarios	GLAC	m_porclasificacion	GLAC	25/07/2003 11:06:46:85				
+m_inventarios	GLAC	m_porprestamo	MLPG	20/02/2001 19:31:55:61	N	N	N	N
+m_inventarios	GLAC	m_porproduccion	MLPG	20/02/2001 19:31:55:83	N	N	N	N
+m_inventarios	GLAC	m_porsaldo	MLPG	20/02/2001 19:31:56:11	N	N	N	N
+m_inventarios	GLAC	m_precargueproduccionhuevo	GLAC	26/02/2003 15:42:27:66				
+m_inventarios	GLAC	m_precargueshuevo	GLAC	03/03/2003 10:43:21:14				
+m_inventarios	GLAC	m_prestamos	MLPG	20/02/2001 19:31:56:33	N	N	N	N
+m_inventarios	GLAC	m_produccion	MLPG	20/02/2001 19:31:56:55	N	N	N	N
+m_inventarios	GLAC	m_productos	MLPG	20/02/2001 19:31:56:76	N	N	N	N
+m_inventarios	GLAC	m_proveedores	MLPG	20/02/2001 19:31:56:98	N	N	N	N
+m_inventarios	GLAC	m_refrescarpermisos	GLAC	22/07/2003 13:26:58:68				
+m_inventarios	GLAC	m_resumenconsumosxdestinoxlnea	MLPG	20/02/2001 19:31:57:2	N	N	N	N
+m_inventarios	GLAC	m_resumendespachosxdestinoxitem	MLPG	20/02/2001 19:31:57:42	N	N	N	N
+m_inventarios	GLAC	m_resumenentradasxlinea	MLPG	20/02/2001 19:31:57:64	N	N	N	N
+m_inventarios	GLAC	m_resumensaliasxlinea	MLPG	20/02/2001 19:31:57:86	N	N	N	N
+m_inventarios	GLAC	m_rotacion	MLPG	20/02/2001 19:31:58:08	N	N	N	N
+m_inventarios	GLAC	m_saldoscualquierfecha	MLPG	20/02/2001 19:31:58:25	N	N	N	N
+m_inventarios	GLAC	m_salidas	MLPG	20/02/2001 19:31:58:47	N	N	N	N
+m_inventarios	GLAC	m_seguridad	MLPG	20/02/2001 19:31:58:69	N	N	N	N
+m_inventarios	GLAC	m_stocks	MLPG	20/02/2001 19:31:58:85	N	N	N	N
+m_inventarios	GLAC	m_subgrupos	MLPG	20/02/2001 19:31:59:07	N	N	N	N
+m_inventarios	GLAC	m_sucursal	MLPG	20/02/2001 19:31:59:24	N	N	N	N
+m_inventarios	GLAC	m_tiposdocumentosyconsecutivos	MLPG	20/02/2001 19:31:59:46	N	N	N	N
+m_inventarios	GLAC	m_titulares	MLPG	20/02/2001 19:31:59:68	N	N	N	N
+m_inventarios	GLAC	m_total	MLPG	20/02/2001 19:31:59:84	N	N	N	N
+m_inventarios	GLAC	m_total_ingresosabodega	GLAC	23/07/2003 13:46:01:03				
+m_inventarios	GLAC	m_total_transformaciones	GLAC	25/07/2003 11:11:55:31				
+m_inventarios	GLAC	m_transaccion	MLPG	20/02/2001 19:32:00:06	N	N	N	N
+m_inventarios	GLAC	m_transformaciones	GLAC	03/04/2003 14:37:35:36				
+m_inventarios	GLAC	m_traslado	MLPG	20/02/2001 19:32:00:28	N	N	N	N
+m_inventarios	GLAC	m_trasladosbodegaexterna	GLAC	14/05/2003 08:40:14:1				
+m_inventarios	GLAC	m_trasladosbodegas	MLPG	20/02/2001 19:32:00:44	N	N	N	N
+m_inventarios	GLAC	m_trasladosporfacturacion	MLPG	20/02/2001 19:32:00:66	N	N	N	N
+m_inventarios	GLAC	m_unidades1	MLPG	20/02/2001 19:32:00:88	N	N	N	N
+m_inventarios	GLAC	m_unidades11	MLPG	20/02/2001 19:32:01:05	N	N	N	N
+m_inventarios	GLAC	m_valarticul	MLPG	20/02/2001 19:32:01:27	N	N	N	N
+m_inventarios	GLAC	m_valbodega	MLPG	20/02/2001 19:32:01:49	N	N	N	N
+m_inventarios	GLAC	m_venta	MLPG	20/02/2001 19:32:01:71	N	N	N	N
+m_inventarios	GLAC	m_ventana	MLPG	20/02/2001 19:32:01:98	N	N	N	N
+m_inventarios	GLAC	m_vertical	MLPG	20/02/2001 19:32:02:15	N	N	N	N
+m_inventarios	LUES	m_aclasificacion	JEMD	30/07/2003 16:07:21:313				
+m_inventarios	LUES	m_ajusteinvfis	JEMD	30/07/2003 16:07:22:093				
+m_inventarios	LUES	m_ajustesinvfis	JEMD	30/07/2003 16:07:22:233				
+m_inventarios	LUES	m_archivo	JEMD	30/07/2003 16:07:22:39				
+m_inventarios	LUES	m_articulos	JEMD	30/07/2003 16:07:22:53				
+m_inventarios	LUES	m_ayuda	JEMD	30/07/2003 16:07:22:686				
+m_inventarios	LUES	m_baja	JEMD	30/07/2003 16:07:22:826				
+m_inventarios	LUES	m_bodega	JEMD	30/07/2003 16:07:22:953				
+m_inventarios	LUES	m_bodegafechahist	JEMD	30/07/2003 16:07:23:093				
+m_inventarios	LUES	m_bodegasxcantidades	JEMD	30/07/2003 16:07:23:25				
+m_inventarios	LUES	m_cambiodeclave	JEMD	30/07/2003 16:07:23:39				
+m_inventarios	LUES	m_cascada	JEMD	30/07/2003 16:07:23:53				
+m_inventarios	LUES	m_compra	JEMD	30/07/2003 16:07:23:67				
+m_inventarios	LUES	m_consignacion	JEMD	30/07/2003 16:07:23:826				
+m_inventarios	LUES	m_consultar	JEMD	30/07/2003 16:07:23:966				
+m_inventarios	LUES	m_consultar1	JEMD	30/07/2003 16:07:24:11				
+m_inventarios	LUES	m_consultar10	JEMD	30/07/2003 16:07:24:266				
+m_inventarios	LUES	m_consultar11	JEMD	30/07/2003 16:07:24:406				
+m_inventarios	LUES	m_consultar12	JEMD	30/07/2003 16:07:24:546				
+m_inventarios	LUES	m_consultar13	JEMD	30/07/2003 16:07:24:703				
+m_inventarios	LUES	m_consultar14	JEMD	30/07/2003 16:07:24:843				
+m_inventarios	LUES	m_consultar15	JEMD	30/07/2003 16:07:24:983				
+m_inventarios	LUES	m_consultar19	JEMD	30/07/2003 16:07:25:14				
+m_inventarios	LUES	m_consultar2	JEMD	30/07/2003 16:07:25:296				
+m_inventarios	LUES	m_consultar20	JEMD	30/07/2003 16:07:25:453				
+m_inventarios	LUES	m_consultar21	JEMD	30/07/2003 16:07:25:593				
+m_inventarios	LUES	m_consultar23	JEMD	30/07/2003 16:07:25:716				
+m_inventarios	LUES	m_consultar24	JEMD	30/07/2003 16:07:25:876				
+m_inventarios	LUES	m_consultar3	JEMD	30/07/2003 16:07:26:03				
+m_inventarios	LUES	m_consultar30	JEMD	30/07/2003 16:07:26:186				
+m_inventarios	LUES	m_consultar31	JEMD	30/07/2003 16:07:26:343				
+m_inventarios	LUES	m_consultar32	JEMD	30/07/2003 16:07:26:483				
+m_inventarios	LUES	m_consultar4	JEMD	30/07/2003 16:07:26:626				
+m_inventarios	LUES	m_consultar42	JEMD	30/07/2003 16:07:26:766				
+m_inventarios	LUES	m_consultar43	JEMD	30/07/2003 16:07:26:906				
+m_inventarios	LUES	m_consultar44	JEMD	30/07/2003 16:07:27:046				
+m_inventarios	LUES	m_consultar45	JEMD	30/07/2003 16:07:27:203				
+m_inventarios	LUES	m_consultar46	JEMD	30/07/2003 16:07:27:343				
+m_inventarios	LUES	m_consultar47	JEMD	30/07/2003 16:07:27:5				
+m_inventarios	LUES	m_consultar5	JEMD	30/07/2003 16:07:27:626				
+m_inventarios	LUES	m_consultar6	JEMD	30/07/2003 16:07:27:78				
+m_inventarios	LUES	m_consultar8	JEMD	30/07/2003 16:07:27:92				
+m_inventarios	LUES	m_consultar9	JEMD	30/07/2003 16:07:28:076				
+m_inventarios	LUES	m_consultarconteo	JEMD	30/07/2003 16:07:28:233				
+m_inventarios	LUES	m_consumo	JEMD	30/07/2003 16:07:28:376				
+m_inventarios	LUES	m_conteofisicoxbodegas	JEMD	30/07/2003 16:07:28:516				
+m_inventarios	LUES	m_devolucioncliente	JEMD	30/07/2003 16:07:28:67				
+m_inventarios	LUES	m_devolucionconsumo	JEMD	30/07/2003 16:07:28:826				
+m_inventarios	LUES	m_devolucionproduccin	JEMD	30/07/2003 16:07:28:983				
+m_inventarios	LUES	m_devolucionproveedores	JEMD	30/07/2003 16:07:29:14				
+m_inventarios	LUES	m_eliminar1	JEMD	30/07/2003 16:07:29:28				
+m_inventarios	LUES	m_entradas	JEMD	30/07/2003 16:07:29:406				
+m_inventarios	LUES	m_entradasporcompra	JEMD	30/07/2003 16:07:29:546				
+m_inventarios	LUES	m_entradaspordevolucion	JEMD	30/07/2003 16:07:29:686				
+m_inventarios	LUES	m_eskardex	JEMD	30/07/2003 16:07:29:826				
+m_inventarios	LUES	m_estadisticas	JEMD	30/07/2003 16:07:29:966				
+m_inventarios	LUES	m_estructuraarticulos	JEMD	30/07/2003 16:07:30:11				
+m_inventarios	LUES	m_existencias	JEMD	30/07/2003 16:07:30:313				
+m_inventarios	LUES	m_generales	JEMD	30/07/2003 16:07:30:436				
+m_inventarios	LUES	m_horizontal	JEMD	30/07/2003 16:07:30:563				
+m_inventarios	LUES	m_iconos	JEMD	30/07/2003 16:07:30:703				
+m_inventarios	LUES	m_informes	JEMD	30/07/2003 16:07:30:843				
+m_inventarios	LUES	m_informestotales	JEMD	30/07/2003 16:07:30:966				
+m_inventarios	LUES	m_ingresosabodega	JEMD	30/07/2003 16:07:31:126				
+m_inventarios	LUES	m_invvalorizadoart	JEMD	30/07/2003 16:07:31:266				
+m_inventarios	LUES	m_kardexresumido	JEMD	30/07/2003 16:07:31:42				
+m_inventarios	LUES	m_kardexresumidovalorizado	JEMD	30/07/2003 16:07:31:563				
+m_inventarios	LUES	m_kardexresumidovalorizadoxlnea	JEMD	30/07/2003 16:07:31:703				
+m_inventarios	LUES	m_lineas1	JEMD	30/07/2003 16:07:31:876				
+m_inventarios	LUES	m_lotes	JEMD	30/07/2003 16:07:32				
+m_inventarios	LUES	m_mensualizado	JEMD	30/07/2003 16:07:32:186				
+m_inventarios	LUES	m_mesacumulado	JEMD	30/07/2003 16:07:32:313				
+m_inventarios	LUES	m_mesacumuladobodega	JEMD	30/07/2003 16:07:32:466				
+m_inventarios	LUES	m_obsequio	JEMD	30/07/2003 16:07:32:61				
+m_inventarios	LUES	m_obsequiosal	JEMD	30/07/2003 16:07:32:716				
+m_inventarios	LUES	m_opcionesmenu	JEMD	30/07/2003 16:07:32:86				
+m_inventarios	LUES	m_planillaconteofsico	JEMD	30/07/2003 16:07:33				
+m_inventarios	LUES	m_porajuste	JEMD	30/07/2003 16:07:33:156				
+m_inventarios	LUES	m_porajustes	JEMD	30/07/2003 16:07:33:313				
+m_inventarios	LUES	m_poraprovechamientos	JEMD	30/07/2003 16:07:33:466				
+m_inventarios	LUES	m_porclasificacion	JEMD	30/07/2003 16:07:33:593				
+m_inventarios	LUES	m_porfaltante	JEMD	30/07/2003 16:07:33:75				
+m_inventarios	LUES	m_porprestamo	JEMD	30/07/2003 16:07:33:906				
+m_inventarios	LUES	m_porsaldo	JEMD	30/07/2003 16:07:34:046				
+m_inventarios	LUES	m_porsobrante	JEMD	30/07/2003 16:07:34:156				
+m_inventarios	LUES	m_precargueproduccionhuevo	JEMD	30/07/2003 16:07:34:296				
+m_inventarios	LUES	m_precargueshuevo	JEMD	30/07/2003 16:07:34:453				
+m_inventarios	LUES	m_prestamos	JEMD	30/07/2003 16:07:34:576				
+m_inventarios	LUES	m_produccion	JEMD	30/07/2003 16:07:34:703				
+m_inventarios	LUES	m_refrescarpermisos	JEMD	30/07/2003 16:07:34:843				
+m_inventarios	LUES	m_resumenentradasxlinea	JEMD	30/07/2003 16:07:35				
+m_inventarios	LUES	m_resumensaliasxlinea	JEMD	30/07/2003 16:07:35:156				
+m_inventarios	LUES	m_rotacion	JEMD	30/07/2003 16:07:35:296				
+m_inventarios	LUES	m_salidas	JEMD	30/07/2003 16:07:35:406				
+m_inventarios	LUES	m_seguridad	JEMD	30/07/2003 16:07:35:546				
+m_inventarios	LUES	m_total	JEMD	30/07/2003 16:07:35:686				
+m_inventarios	LUES	m_total_ingresosabodega	JEMD	30/07/2003 16:07:35:826				
+m_inventarios	LUES	m_total_transformaciones	JEMD	30/07/2003 16:07:35:953				
+m_inventarios	LUES	m_totaldevolucionesproveedor	JEMD	30/07/2003 16:07:36:14				
+m_inventarios	LUES	m_totalremisionesexternas	JEMD	30/07/2003 16:07:36:296				
+m_inventarios	LUES	m_transaccion	JEMD	30/07/2003 16:07:36:593				
+m_inventarios	LUES	m_transformaciones	JEMD	30/07/2003 16:07:36:906				
+m_inventarios	LUES	m_traslado	JEMD	30/07/2003 16:07:37:046				
+m_inventarios	LUES	m_trasladosbodegaexterna	JEMD	30/07/2003 16:07:37:17				
+m_inventarios	LUES	m_trasladosbodegas	JEMD	30/07/2003 16:07:37:326				
+m_inventarios	LUES	m_trasladosporfacturacion	JEMD	30/07/2003 16:07:37:466				
+m_inventarios	LUES	m_valarticul	JEMD	30/07/2003 16:07:37:626				
+m_inventarios	LUES	m_valbodega	JEMD	30/07/2003 16:07:37:766				
+m_inventarios	LUES	m_venta	JEMD	30/07/2003 16:07:37:906				
+m_inventarios	LUES	m_ventana	JEMD	30/07/2003 16:07:38:03				
+m_inventarios	LUES	m_vertical	JEMD	30/07/2003 16:07:38:14				
+m_inventarios	OELO	m_aclasificacion	GLAC	25/07/2003 11:08:11:87				
+m_inventarios	OELO	m_ajusteinvfis	GLAC	29/07/2002 15:12:07:65	N	N	N	N
+m_inventarios	OELO	m_ajustesinvfis	GLAC	29/07/2002 15:12:08:47	N	N	N	N
+m_inventarios	OELO	m_archivo	GLAC	29/07/2002 15:12:10:83	N	N	N	N
+m_inventarios	OELO	m_articulos	GLAC	29/07/2002 15:12:11:05	N	N	N	N
+m_inventarios	OELO	m_ayuda	GLAC	29/07/2002 15:12:11:6	N	N	N	N
+m_inventarios	OELO	m_baja	GLAC	29/07/2002 15:12:12:53	N	N	N	N
+m_inventarios	OELO	m_bodega	GLAC	29/07/2002 15:12:13:96	N	N	N	N
+m_inventarios	OELO	m_bodegafechahist	GLAC	29/07/2002 15:12:14:13	N	N	N	N
+m_inventarios	OELO	m_bodegasxcantidades	GLAC	29/07/2002 15:12:14:29	N	N	N	N
+m_inventarios	OELO	m_cambiodeclave	GLAC	29/07/2002 15:12:14:51	N	N	N	N
+m_inventarios	OELO	m_cascada	GLAC	29/07/2002 15:12:14:79	N	N	N	N
+m_inventarios	OELO	m_compra	GLAC	29/07/2002 15:12:14:95	N	N	N	N
+m_inventarios	OELO	m_consignacion	GLAC	29/07/2002 15:12:15:28	N	N	N	N
+m_inventarios	OELO	m_consultar	GLAC	29/07/2002 15:12:15:56	N	N	N	N
+m_inventarios	OELO	m_consultar1	GLAC	29/07/2002 15:12:15:83	N	N	N	N
+m_inventarios	OELO	m_consultar10	GLAC	29/07/2002 15:12:16:05	N	N	N	N
+m_inventarios	OELO	m_consultar11	GLAC	29/07/2002 15:12:16:27	N	N	N	N
+m_inventarios	OELO	m_consultar12	GLAC	29/07/2002 15:12:18:52	N	N	N	N
+m_inventarios	OELO	m_consultar13	GLAC	29/07/2002 15:12:18:69	N	N	N	N
+m_inventarios	OELO	m_consultar14	GLAC	29/07/2002 15:12:18:85	N	N	N	N
+m_inventarios	OELO	m_consultar15	GLAC	29/07/2002 15:12:19:07	N	N	N	N
+m_inventarios	OELO	m_consultar17	GLAC	29/07/2002 15:12:19:18	N	N	N	N
+m_inventarios	OELO	m_consultar19	GLAC	29/07/2002 15:12:19:35	N	N	N	N
+m_inventarios	OELO	m_consultar2	GLAC	29/07/2002 15:12:19:51	N	N	N	N
+m_inventarios	OELO	m_consultar20	GLAC	29/07/2002 15:12:19:68	N	N	N	N
+m_inventarios	OELO	m_consultar21	GLAC	29/07/2002 15:12:19:84	N	N	N	N
+m_inventarios	OELO	m_consultar22	GLAC	29/07/2002 15:12:20	N	N	N	N
+m_inventarios	OELO	m_consultar23	GLAC	29/07/2002 15:12:20:11	N	N	N	N
+m_inventarios	OELO	m_consultar24	GLAC	29/07/2002 15:12:22:31	N	N	N	N
+m_inventarios	OELO	m_consultar25	GLAC	29/07/2002 15:12:22:48	N	N	N	N
+m_inventarios	OELO	m_consultar26	GLAC	29/07/2002 15:12:22:64	N	N	N	N
+m_inventarios	OELO	m_consultar27	GLAC	29/07/2002 15:12:22:81	N	N	N	N
+m_inventarios	OELO	m_consultar28	GLAC	29/07/2002 15:12:22:97	N	N	N	N
+m_inventarios	OELO	m_consultar29	GLAC	29/07/2002 15:12:23:14	N	N	N	N
+m_inventarios	OELO	m_consultar3	GLAC	29/07/2002 15:12:23:3	N	N	N	N
+m_inventarios	OELO	m_consultar30	GLAC	29/07/2002 15:12:23:47	N	N	N	N
+m_inventarios	OELO	m_consultar31	GLAC	29/07/2002 15:12:23:68	N	N	N	N
+m_inventarios	OELO	m_consultar32	GLAC	29/07/2002 15:12:23:85	N	N	N	N
+m_inventarios	OELO	m_consultar33	GLAC	29/07/2002 15:12:23:96	N	N	N	N
+m_inventarios	OELO	m_consultar4	GLAC	29/07/2002 15:12:24:12	N	N	N	N
+m_inventarios	OELO	m_consultar43	GLAC	03/04/2003 14:38:21:77				
+m_inventarios	OELO	m_consultar44	GLAC	14/05/2003 08:41:53:13				
+m_inventarios	OELO	m_consultar45	GLAC	23/07/2003 11:54:23:41				
+m_inventarios	OELO	m_consultar46	GLAC	25/07/2003 11:07:05:63				
+m_inventarios	OELO	m_consultar47	GLAC	25/07/2003 11:08:24:89				
+m_inventarios	OELO	m_consultar5	GLAC	29/07/2002 15:12:24:29	N	N	N	N
+m_inventarios	OELO	m_consultar6	GLAC	29/07/2002 15:12:26:54	N	N	N	N
+m_inventarios	OELO	m_consultar8	GLAC	29/07/2002 15:12:26:71	N	N	N	N
+m_inventarios	OELO	m_consultar9	GLAC	29/07/2002 15:12:26:87	N	N	N	N
+m_inventarios	OELO	m_consumo	GLAC	29/07/2002 15:12:27:04	N	N	N	N
+m_inventarios	OELO	m_conteofisico	GLAC	29/07/2002 15:12:27:2	N	N	N	N
+m_inventarios	OELO	m_devolucioncliente	GLAC	29/07/2002 15:12:27:36	N	N	N	N
+m_inventarios	OELO	m_devolucionconsumo	GLAC	29/07/2002 15:12:27:53	N	N	N	N
+m_inventarios	OELO	m_devolucionproduccin	GLAC	29/07/2002 15:12:27:69	N	N	N	N
+m_inventarios	OELO	m_devolucionproveedores	GLAC	29/07/2002 15:12:27:91	N	N	N	N
+m_inventarios	OELO	m_eliminar1	GLAC	29/07/2002 15:12:28:35	N	N	N	N
+m_inventarios	OELO	m_entradas	GLAC	29/07/2002 15:12:30:28	N	N	N	N
+m_inventarios	OELO	m_entradasporcompra	GLAC	29/07/2002 15:12:30:44	N	N	N	N
+m_inventarios	OELO	m_entradaspordevolucion	GLAC	25/07/2003 11:07:56:77				
+m_inventarios	OELO	m_eskardex	GLAC	29/07/2002 15:12:30:61	N	N	N	N
+m_inventarios	OELO	m_estadisticas	GLAC	29/07/2002 15:12:30:77	N	N	N	N
+m_inventarios	OELO	m_estructuraarticulos	GLAC	29/07/2002 15:12:30:99	N	N	N	N
+m_inventarios	OELO	m_existencias	GLAC	29/07/2002 15:12:31:21	N	N	N	N
+m_inventarios	OELO	m_generales	GLAC	29/07/2002 15:12:31:43	N	N	N	N
+m_inventarios	OELO	m_horizontal	GLAC	29/07/2002 15:12:31:7	N	N	N	N
+m_inventarios	OELO	m_iconos	GLAC	29/07/2002 15:12:31:87	N	N	N	N
+m_inventarios	OELO	m_informes	GLAC	29/07/2002 15:12:32:09	N	N	N	N
+m_inventarios	OELO	m_informestotales	GLAC	29/07/2002 15:12:32:25	N	N	N	N
+m_inventarios	OELO	m_ingresosabodega	GLAC	23/07/2003 11:54:06				
+m_inventarios	OELO	m_invvalorizadoart	GLAC	29/07/2002 15:12:32:47	N	N	N	N
+m_inventarios	OELO	m_kardexresumido	GLAC	29/07/2002 15:12:33:85	N	N	N	N
+m_inventarios	OELO	m_kardexresumidovalorizado	GLAC	29/07/2002 15:12:34:01	N	N	N	N
+m_inventarios	OELO	m_kardexresumidovalorizadoxlnea	GLAC	29/07/2002 15:12:34:18	N	N	N	N
+m_inventarios	OELO	m_lineas1	GLAC	29/07/2002 15:12:34:34	N	N	N	N
+m_inventarios	OELO	m_listadepreciosclientes	GLAC	29/07/2002 15:12:34:45	N	N	N	N
+m_inventarios	OELO	m_listasdeprecios	GLAC	29/07/2002 15:12:34:62	N	N	N	N
+m_inventarios	OELO	m_lotes	GLAC	29/07/2002 15:12:34:83	N	N	N	N
+m_inventarios	OELO	m_mensualizado	GLAC	29/07/2002 15:12:35	N	N	N	N
+m_inventarios	OELO	m_mesacumulado	GLAC	29/07/2002 15:12:35:16	N	N	N	N
+m_inventarios	OELO	m_mesacumuladobodega	GLAC	29/07/2002 15:12:35:33	N	N	N	N
+m_inventarios	OELO	m_obsequio	GLAC	29/07/2002 15:12:35:55	N	N	N	N
+m_inventarios	OELO	m_obsequiosal	GLAC	29/07/2002 15:12:35:66	N	N	N	N
+m_inventarios	OELO	m_planillaconteofsico	GLAC	29/07/2002 15:12:35:82	N	N	N	N
+m_inventarios	OELO	m_porajuste	GLAC	29/07/2002 15:12:35:99	N	N	N	N
+m_inventarios	OELO	m_porajustes	GLAC	29/07/2002 15:12:36:15	N	N	N	N
+m_inventarios	OELO	m_poraprovechamientos	GLAC	29/07/2002 15:12:38:95	N	N	N	N
+m_inventarios	OELO	m_porclasificacion	GLAC	25/07/2003 11:06:48:38				
+m_inventarios	OELO	m_porfaltante	GLAC	29/07/2002 15:12:39:12	N	N	N	N
+m_inventarios	OELO	m_porprestamo	GLAC	29/07/2002 15:12:39:39	N	N	N	N
+m_inventarios	OELO	m_porproduccion	GLAC	29/07/2002 15:12:39:67	N	N	N	N
+m_inventarios	OELO	m_porsaldo	GLAC	29/07/2002 15:12:39:94	N	N	N	N
+m_inventarios	OELO	m_porsobrante	GLAC	29/07/2002 15:12:40:11	N	N	N	N
+m_inventarios	OELO	m_portransformacion	GLAC	29/07/2002 15:12:42:36	N	N	N	N
+m_inventarios	OELO	m_portransformacion1	GLAC	29/07/2002 15:12:42:52	N	N	N	N
+m_inventarios	OELO	m_precargueproduccion	GLAC	29/07/2002 15:12:42:69	N	N	N	N
+m_inventarios	OELO	m_precargueproduccionvisceras	GLAC	29/07/2002 15:12:42:85	N	N	N	N
+m_inventarios	OELO	m_precargueshuevo	GLAC	03/03/2003 10:43:21:69				
+m_inventarios	OELO	m_prestamos	GLAC	29/07/2002 15:12:43:02	N	N	N	N
+m_inventarios	OELO	m_produccion	GLAC	29/07/2002 15:12:43:18	N	N	N	N
+m_inventarios	OELO	m_refrescarpermisos	GLAC	22/07/2003 13:27:00				
+m_inventarios	OELO	m_resumenentradasxlinea	GLAC	29/07/2002 15:12:43:35	N	N	N	N
+m_inventarios	OELO	m_resumensaliasxlinea	GLAC	29/07/2002 15:12:43:57	N	N	N	N
+m_inventarios	OELO	m_rotacion	GLAC	29/07/2002 15:12:43:68	N	N	N	N
+m_inventarios	OELO	m_salidas	GLAC	29/07/2002 15:12:43:95	N	N	N	N
+m_inventarios	OELO	m_seguridad	GLAC	29/07/2002 15:12:44:12	N	N	N	N
+m_inventarios	OELO	m_total	GLAC	29/07/2002 15:12:45:05	N	N	N	N
+m_inventarios	OELO	m_total_ingresosabodega	GLAC	23/07/2003 13:46:02:34				
+m_inventarios	OELO	m_total_transformaciones	GLAC	25/07/2003 11:11:56:74				
+m_inventarios	OELO	m_totaldevolucionesproveedor	GLAC	29/07/2002 15:12:45:22	N	N	N	N
+m_inventarios	OELO	m_totalremisionesexternas	GLAC	29/07/2002 15:12:45:38	N	N	N	N
+m_inventarios	OELO	m_transaccion	GLAC	29/07/2002 15:12:45:55	N	N	N	N
+m_inventarios	OELO	m_transformaciones	GLAC	03/04/2003 14:37:35:97				
+m_inventarios	OELO	m_traslado	GLAC	29/07/2002 15:12:45:71	N	N	N	N
+m_inventarios	OELO	m_trasladosbodegaexterna	GLAC	14/05/2003 08:40:14:7				
+m_inventarios	OELO	m_trasladosbodegas	GLAC	29/07/2002 15:12:45:98	N	N	N	N
+m_inventarios	OELO	m_trasladosporfacturacion	GLAC	29/07/2002 15:12:46:15	N	N	N	N
+m_inventarios	OELO	m_valarticul	GLAC	29/07/2002 15:12:46:31	N	N	N	N
+m_inventarios	OELO	m_valbodega	GLAC	29/07/2002 15:12:46:48	N	N	N	N
+m_inventarios	OELO	m_venta	GLAC	29/07/2002 15:12:46:64	N	N	N	N
+m_inventarios	OELO	m_ventana	GLAC	29/07/2002 15:12:46:75	N	N	N	N
+m_inventarios	OELO	m_vertical	GLAC	29/07/2002 15:12:46:92	N	N	N	N
+m_inventarios	VTPV	m_aclasificacion	GLAC	25/07/2003 11:08:11:98				
+m_inventarios	VTPV	m_ajusteinvfis	GLAC	29/07/2002 15:12:08:42	N	N	N	N
+m_inventarios	VTPV	m_ajustesinvfis	GLAC	29/07/2002 15:12:10:67	N	N	N	N
+m_inventarios	VTPV	m_archivo	GLAC	29/07/2002 15:12:10:89	N	N	N	N
+m_inventarios	VTPV	m_articulos	GLAC	29/07/2002 15:12:11:33	N	N	N	N
+m_inventarios	VTPV	m_ayuda	GLAC	29/07/2002 15:12:11:93	N	N	N	N
+m_inventarios	VTPV	m_baja	GLAC	29/07/2002 15:12:13:8	N	N	N	N
+m_inventarios	VTPV	m_bodega	GLAC	29/07/2002 15:12:14:02	N	N	N	N
+m_inventarios	VTPV	m_bodegafechahist	GLAC	29/07/2002 15:12:14:24	N	N	N	N
+m_inventarios	VTPV	m_bodegasxcantidades	GLAC	29/07/2002 15:12:14:35	N	N	N	N
+m_inventarios	VTPV	m_cambiodeclave	GLAC	29/07/2002 15:12:14:62	N	N	N	N
+m_inventarios	VTPV	m_cascada	GLAC	29/07/2002 15:12:14:9	N	N	N	N
+m_inventarios	VTPV	m_compra	GLAC	29/07/2002 15:12:15:12	N	N	N	N
+m_inventarios	VTPV	m_consignacion	GLAC	29/07/2002 15:12:15:45	N	N	N	N
+m_inventarios	VTPV	m_consultar	GLAC	29/07/2002 15:12:15:72	N	N	N	N
+m_inventarios	VTPV	m_consultar1	GLAC	29/07/2002 15:12:16	N	N	N	N
+m_inventarios	VTPV	m_consultar10	GLAC	29/07/2002 15:12:16:16	N	N	N	N
+m_inventarios	VTPV	m_consultar11	GLAC	29/07/2002 15:12:16:76	N	N	N	N
+m_inventarios	VTPV	m_consultar12	GLAC	29/07/2002 15:12:18:63	N	N	N	N
+m_inventarios	VTPV	m_consultar13	GLAC	29/07/2002 15:12:18:8	N	N	N	N
+m_inventarios	VTPV	m_consultar14	GLAC	29/07/2002 15:12:18:96	N	N	N	N
+m_inventarios	VTPV	m_consultar15	GLAC	29/07/2002 15:12:19:13	N	N	N	N
+m_inventarios	VTPV	m_consultar19	GLAC	29/07/2002 15:12:19:46	N	N	N	N
+m_inventarios	VTPV	m_consultar2	GLAC	29/07/2002 15:12:19:57	N	N	N	N
+m_inventarios	VTPV	m_consultar20	GLAC	29/07/2002 15:12:19:73	N	N	N	N
+m_inventarios	VTPV	m_consultar21	GLAC	29/07/2002 15:12:19:89	N	N	N	N
+m_inventarios	VTPV	m_consultar23	GLAC	29/07/2002 15:12:20:22	N	N	N	N
+m_inventarios	VTPV	m_consultar24	GLAC	29/07/2002 15:12:22:42	N	N	N	N
+m_inventarios	VTPV	m_consultar3	GLAC	29/07/2002 15:12:23:36	N	N	N	N
+m_inventarios	VTPV	m_consultar30	GLAC	29/07/2002 15:12:23:57	N	N	N	N
+m_inventarios	VTPV	m_consultar31	GLAC	29/07/2002 15:12:23:74	N	N	N	N
+m_inventarios	VTPV	m_consultar32	GLAC	29/07/2002 15:12:23:9	N	N	N	N
+m_inventarios	VTPV	m_consultar4	GLAC	29/07/2002 15:12:24:23	N	N	N	N
+m_inventarios	VTPV	m_consultar42	JEMD	30/07/2003 15:38:53:266				
+m_inventarios	VTPV	m_consultar43	GLAC	03/04/2003 14:38:21:83				
+m_inventarios	VTPV	m_consultar44	GLAC	14/05/2003 08:41:53:18				
+m_inventarios	VTPV	m_consultar45	GLAC	23/07/2003 11:54:23:52				
+m_inventarios	VTPV	m_consultar46	GLAC	25/07/2003 11:07:05:74				
+m_inventarios	VTPV	m_consultar47	GLAC	25/07/2003 11:08:25:05				
+m_inventarios	VTPV	m_consultar5	GLAC	29/07/2002 15:12:24:4	N	N	N	N
+m_inventarios	VTPV	m_consultar6	GLAC	29/07/2002 15:12:26:6	N	N	N	N
+m_inventarios	VTPV	m_consultar8	GLAC	29/07/2002 15:12:26:82	N	N	N	N
+m_inventarios	VTPV	m_consultar9	GLAC	29/07/2002 15:12:26:93	N	N	N	N
+m_inventarios	VTPV	m_consultarconteo	JEMD	30/07/2003 15:47:13:483				
+m_inventarios	VTPV	m_consumo	GLAC	29/07/2002 15:12:27:15	N	N	N	N
+m_inventarios	VTPV	m_conteofisicoxbodegas	JEMD	30/07/2003 15:46:57:063				
+m_inventarios	VTPV	m_devolucioncliente	GLAC	29/07/2002 15:12:27:47	N	N	N	N
+m_inventarios	VTPV	m_devolucionconsumo	GLAC	29/07/2002 15:12:27:64	N	N	N	N
+m_inventarios	VTPV	m_devolucionproduccin	GLAC	29/07/2002 15:12:27:8	N	N	N	N
+m_inventarios	VTPV	m_devolucionproveedores	GLAC	29/07/2002 15:12:28:02	N	N	N	N
+m_inventarios	VTPV	m_eliminar1	GLAC	29/07/2002 15:12:30:22	N	N	N	N
+m_inventarios	VTPV	m_entradas	GLAC	29/07/2002 15:12:30:39	N	N	N	N
+m_inventarios	VTPV	m_entradasporcompra	GLAC	29/07/2002 15:12:30:55	N	N	N	N
+m_inventarios	VTPV	m_entradaspordevolucion	GLAC	25/07/2003 11:07:56:88				
+m_inventarios	VTPV	m_eskardex	GLAC	29/07/2002 15:12:30:72	N	N	N	N
+m_inventarios	VTPV	m_estadisticas	GLAC	29/07/2002 15:12:30:88	N	N	N	N
+m_inventarios	VTPV	m_estructuraarticulos	GLAC	29/07/2002 15:12:31:1	N	N	N	N
+m_inventarios	VTPV	m_existencias	GLAC	29/07/2002 15:12:31:32	N	N	N	N
+m_inventarios	VTPV	m_generales	GLAC	29/07/2002 15:12:31:59	N	N	N	N
+m_inventarios	VTPV	m_horizontal	GLAC	29/07/2002 15:12:31:81	N	N	N	N
+m_inventarios	VTPV	m_iconos	GLAC	29/07/2002 15:12:31:98	N	N	N	N
+m_inventarios	VTPV	m_informes	GLAC	29/07/2002 15:12:32:2	N	N	N	N
+m_inventarios	VTPV	m_informestotales	GLAC	29/07/2002 15:12:32:36	N	N	N	N
+m_inventarios	VTPV	m_ingresosabodega	GLAC	23/07/2003 11:54:06:11				
+m_inventarios	VTPV	m_invvalorizadoart	GLAC	29/07/2002 15:12:33:74	N	N	N	N
+m_inventarios	VTPV	m_kardexresumido	GLAC	29/07/2002 15:12:33:9	N	N	N	N
+m_inventarios	VTPV	m_kardexresumidovalorizado	GLAC	29/07/2002 15:12:34:07	N	N	N	N
+m_inventarios	VTPV	m_kardexresumidovalorizadoxlnea	GLAC	29/07/2002 15:12:34:23	N	N	N	N
+m_inventarios	VTPV	m_lineas1	GLAC	29/07/2002 15:12:34:4	N	N	N	N
+m_inventarios	VTPV	m_lotes	GLAC	29/07/2002 15:12:34:94	N	N	N	N
+m_inventarios	VTPV	m_mensualizado	GLAC	29/07/2002 15:12:35:11	N	N	N	N
+m_inventarios	VTPV	m_mesacumulado	GLAC	29/07/2002 15:12:35:27	N	N	N	N
+m_inventarios	VTPV	m_mesacumuladobodega	GLAC	29/07/2002 15:12:35:44	N	N	N	N
+m_inventarios	VTPV	m_obsequio	GLAC	29/07/2002 15:12:35:6	N	N	N	N
+m_inventarios	VTPV	m_obsequiosal	GLAC	29/07/2002 15:12:35:77	N	N	N	N
+m_inventarios	VTPV	m_opcionesmenu	JEMD	30/07/2003 16:00:37:063				
+m_inventarios	VTPV	m_planillaconteofsico	GLAC	29/07/2002 15:12:35:88	N	N	N	N
+m_inventarios	VTPV	m_porajuste	GLAC	29/07/2002 15:12:36:04	N	N	N	N
+m_inventarios	VTPV	m_porajustes	GLAC	29/07/2002 15:12:37:36	N	N	N	N
+m_inventarios	VTPV	m_poraprovechamientos	GLAC	29/07/2002 15:12:39:06	N	N	N	N
+m_inventarios	VTPV	m_porclasificacion	GLAC	25/07/2003 11:06:48:49				
+m_inventarios	VTPV	m_porfaltante	GLAC	29/07/2002 15:12:39:23	N	N	N	N
+m_inventarios	VTPV	m_porprestamo	GLAC	29/07/2002 15:12:39:5	N	N	N	N
+m_inventarios	VTPV	m_porsaldo	GLAC	29/07/2002 15:12:40:05	N	N	N	N
+m_inventarios	VTPV	m_porsobrante	GLAC	29/07/2002 15:12:42:3	N	N	N	N
+m_inventarios	VTPV	m_precargueproduccionhuevo	JEMD	30/07/2003 15:38:35:796				
+m_inventarios	VTPV	m_precargueshuevo	GLAC	03/03/2003 10:43:21:74				
+m_inventarios	VTPV	m_prestamos	GLAC	29/07/2002 15:12:43:13	N	N	N	N
+m_inventarios	VTPV	m_produccion	GLAC	29/07/2002 15:12:43:29	N	N	N	N
+m_inventarios	VTPV	m_refrescarpermisos	GLAC	22/07/2003 13:27:00:11				
+m_inventarios	VTPV	m_resumenentradasxlinea	GLAC	29/07/2002 15:12:43:46	N	N	N	N
+m_inventarios	VTPV	m_resumensaliasxlinea	GLAC	29/07/2002 15:12:43:62	N	N	N	N
+m_inventarios	VTPV	m_rotacion	GLAC	29/07/2002 15:12:43:79	N	N	N	N
+m_inventarios	VTPV	m_salidas	GLAC	29/07/2002 15:12:44:01	N	N	N	N
+m_inventarios	VTPV	m_seguridad	GLAC	29/07/2002 15:12:44:45	N	N	N	N
+m_inventarios	VTPV	m_total	GLAC	29/07/2002 15:12:45:11	N	N	N	N
+m_inventarios	VTPV	m_total_ingresosabodega	GLAC	23/07/2003 13:46:02:45				
+m_inventarios	VTPV	m_total_transformaciones	GLAC	25/07/2003 11:11:56:9				
+m_inventarios	VTPV	m_totaldevolucionesproveedor	GLAC	29/07/2002 15:12:45:27	N	N	N	N
+m_inventarios	VTPV	m_totalremisionesexternas	GLAC	29/07/2002 15:12:45:44	N	N	N	N
+m_inventarios	VTPV	m_transaccion	GLAC	29/07/2002 15:12:45:6	N	N	N	N
+m_inventarios	VTPV	m_transformaciones	GLAC	03/04/2003 14:37:36:02				
+m_inventarios	VTPV	m_traslado	GLAC	29/07/2002 15:12:45:76	N	N	N	N
+m_inventarios	VTPV	m_trasladosbodegaexterna	GLAC	14/05/2003 08:40:14:81				
+m_inventarios	VTPV	m_trasladosbodegas	GLAC	29/07/2002 15:12:46:09	N	N	N	N
+m_inventarios	VTPV	m_trasladosporfacturacion	GLAC	29/07/2002 15:12:46:26	N	N	N	N
+m_inventarios	VTPV	m_valarticul	GLAC	29/07/2002 15:12:46:37	N	N	N	N
+m_inventarios	VTPV	m_valbodega	GLAC	29/07/2002 15:12:46:53	N	N	N	N
+m_inventarios	VTPV	m_venta	GLAC	29/07/2002 15:12:46:7	N	N	N	N
+m_inventarios	VTPV	m_ventana	GLAC	29/07/2002 15:12:46:86	N	N	N	N
+m_inventarios	VTPV	m_vertical	GLAC	29/07/2002 15:12:47:03	N	N	N	N

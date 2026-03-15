@@ -1,0 +1,169 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.2800.1528" name=GENERATOR>
+<STYLE>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+span.EmailStyle17
+	{font-family:Arial;
+	color:windowtext;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;}
+div.Section1
+	{page:Section1;}
+-->
+</STYLE>
+</HEAD>
+<BODY lang=EN-US vLink=purple link=blue><B>From:</B> Javier E. Mora 
+[javierm@incusan.com]<BR><B>Sent:</B> Lunes, 25 de Septiembre de 2006 12:01 
+p.m.<BR><B>To:</B> 'Martha Lucia Prada '<BR><B>Subject:</B> scripts para manejo 
+mejorado de versiones en los sistemas<BR>
+<DIV class=Section1>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">//esto lo puese en el script open 
+del objeto aplicación. Para generar la variable global que contiene la versión 
+actual del sistema y la cadena </SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">//para la ventanan acerca de. Aquí 
+se define la fecha de la versión actual</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">li_ano_version=2006</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">li_mes_version=09</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">li_dia_version=25</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">gdt_fecha_version=datetime(date(li_ano_version,li_mes_version,li_dia_version))</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">ls_nombre_mes_version=nombre_mes(li_mes_version)</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">gs_cadena_fecha_version=string(li_dia_version)+" 
+de "+ls_nombre_mes_version+" de "+string(li_ano_version)</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">///este se puso en 
+w_gl_identificacion para hacer la validacion de la versión. Supone dos campos 
+adicionales en la tabla de configuración del módulo 
+correspondiente</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">//para el control de 
+versiones</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">IF isnull(ls_ind_forzar_version) 
+then</SPAN></FONT></P>
+<P class=MsoNormal style="TEXT-INDENT: 0.5in"><FONT face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">ls_ind_forzar_version='N'</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">End IF</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">IF ls_ind_forzar_version='S' 
+Then</SPAN></FONT></P>
+<P class=MsoNormal style="TEXT-INDENT: 0.5in"><FONT face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">IF gdt_fecha_version &lt; 
+ldt_fec_version Then</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+</SPAN></FONT><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">ROLLBACK USING 
+SQLCA;</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+MessageBox("Error","La versión actual del sistema es de fecha: 
+"+string(date(gdt_fecha_version))+&amp;</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
++" la fecha mínima requerida de versión es : 
+"+string(date(ldt_fec_version)),stopsign!)</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+RETURN</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+End IF</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">End iF</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">//se alimenta el campo fecha version 
+se pone esto en evento ue_activar_opciones de la ventana 
+w_ventana_principal</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; fecha_version)&nbsp; //se deja rastro de la fecha de versión 
+actual</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">VALUES ( :empresa,&nbsp;&nbsp; 
+</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; :usuario,&nbsp;&nbsp; </SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; :gs_id_modulo,&nbsp;&nbsp; </SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; :gdt_fecha_hora_ingreso,&nbsp;&nbsp; </SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; :gs_log_id,&nbsp;&nbsp; </SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; null,</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; :ls_nombre_pc,</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; :ls_nombre_usuario,</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp; :gdt_fecha_version)&nbsp; ;</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">//a la ventana acerca de tambien hay 
+que hacerle un arreglo para que tome la fecha de version desde las variables 
+globales</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">//eso se pone en el open de dicha 
+ventana</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial">st_fecha_version.text=gs_cadena_fecha_version</SPAN></FONT></P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P>
+<P class=MsoNormal><FONT face=Arial size=2><SPAN lang=ES-CO 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"></SPAN></FONT>&nbsp;</P></DIV></BODY></HTML>

@@ -1,0 +1,4 @@
+m_nomina	0002	m_archivo	JEMD	3/01/2022	N	N	N	N	N
+m_nomina	0002	m_cargos	JEMD	3/01/2022	N	N	N	N	N
+m_nomina	0002	m_conceptosembargosempleados1	JEMD	3/01/2022	N	N	N	N	N
+m_nomina	0002	m_tablasbsicas	JEMD	3/01/2022	N	N	N	N	N

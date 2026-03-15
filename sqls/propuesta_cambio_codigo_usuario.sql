@@ -1,0 +1,1 @@
+alter table dba.usuarios modify id_usuario char(15);

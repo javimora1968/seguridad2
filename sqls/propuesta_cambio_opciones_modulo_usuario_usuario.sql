@@ -1,0 +1,1 @@
+alter table dba.opciones_modulo_usuario modify usuario char(15);
